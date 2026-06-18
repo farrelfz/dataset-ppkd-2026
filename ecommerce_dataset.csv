@@ -1,0 +1,801 @@
+id_pelanggan,gender,status_member,level_loyalitas,kota,kategori_produk,usia,lama_member_bln,jumlah_transaksi,total_klik,rata_rating,total_belanja
+CUST0001,Perempuan,Non-Member,Silver,Makassar,Perabot Rumah,54.0,50.0,1.0,4.0,3.6,3285.25
+CUST0002,Perempuan,Member,Silver,Bogor,Travel,45.0,25.0,97.0,405.0,4.2,35081.51
+CUST0003,Perempuan,Non-Member,Gold,Tangerang,Kecantikan,31.0,67.0,12.0,49.0,4.3,8290.19
+CUST0004,Laki-laki,Non-Member,Gold,Tangerang,Fashion,35.0,27.0,112.0,460.0,4.9,44176.96
+CUST0005,Perempuan,Member,Silver,Bekasi,Mainan Anak,19.0,15.0,3.0,12.0,2.9,1642.53
+CUST0006,Laki-laki,Member,Bronze,Medan,Travel,45.0,68.0,59.0,235.0,4.5,20788.18
+CUST0007,Laki-laki,Member,Bronze,Makassar,Otomotif,25.0,,90.0,366.0,4.9,28679.95
+CUST0008,Laki-laki,Non-Member,Bronze,Makassar,Otomotif,,66.0,7.0,28.0,3.9,5374.94
+CUST0009,Perempuan,Non-Member,Silver,Surabaya,Makanan,18.0,63.0,89.0,366.0,3.6,29827.94
+CUST0010,Laki-laki,Member,Silver,Yogyakarta,Perabot Rumah,43.0,16.0,110.0,457.0,,38763.61
+CUST0011,Perempuan,Member,Bronze,Medan,Fashion,43.0,74.0,111.0,462.0,3.9,35795.65
+CUST0012,Perempuan,Member,Gold,Malang,Gaming,41.0,22.0,111.0,457.0,2.7,49631.56
+CUST0013,Laki-laki,Member,Platinum,Tangerang,Kecantikan,18.0,13.0,43.0,170.0,3.5,25375.24
+CUST0014,Perempuan,Non-Member,Silver,Tangerang,Buku,46.0,21.0,29.0,116.0,4.3,10519.04
+CUST0015,Perempuan,Member,Silver,Medan,Buku,35.0,63.0,85.0,353.0,4.4,32906.24
+CUST0016,Perempuan,Non-Member,Gold,Jakarta,Otomotif,46.0,5.0,58.0,223.0,,22657.93
+CUST0017,Perempuan,Member,Gold,Tangerang,Perabot Rumah,41.0,13.0,97.0,400.0,3.1,42651.16
+CUST0018,Laki-laki,Member,Bronze,Tangerang,Perabot Rumah,,,35.0,141.0,3.8,11671.55
+CUST0019,Perempuan,Member,Bronze,Bekasi,Kecantikan,21.0,37.0,24.0,96.0,3.1,9337.67
+CUST0020,Perempuan,Member,Bronze,Jakarta,Buku,37.0,37.0,44.0,175.0,4.8,14745.5
+CUST0021,Laki-laki,Member,Bronze,Yogyakarta,Kecantikan,30.0,80.0,8.0,32.0,3.7,6552.06
+CUST0022,Perempuan,Non-Member,Silver,Surabaya,Otomotif,32.0,67.0,77.0,294.0,3.3,26703.28
+CUST0023,Laki-laki,Member,Silver,Batam,Olahraga,55.0,,4.0,16.0,4.7,1591.48
+CUST0024,Perempuan,Non-Member,Silver,Yogyakarta,Otomotif,57.0,26.0,82.0,336.0,4.9,26596.26
+CUST0025,Laki-laki,Member,Bronze,Bekasi,Fashion,,53.0,111.0,425.0,4.6,35176.99
+CUST0026,Laki-laki,Non-Member,Silver,Tangerang,Travel,52.0,3.0,17.0,70.0,4.6,5588.62
+CUST0027,Laki-laki,Member,Bronze,Batam,Buku,34.0,75.0,81.0,320.0,2.7,27267.1
+CUST0028,Laki-laki,Member,Silver,Makassar,Kecantikan,24.0,17.0,77.0,306.0,,27610.49
+CUST0029,Laki-laki,Member,Gold,Palembang,Travel,44.0,29.0,111.0,436.0,5.0,49981.88
+CUST0030,Laki-laki,Member,Bronze,Pekanbaru,Mainan Anak,46.0,63.0,20.0,83.0,4.0,9473.54
+CUST0031,Perempuan,Non-Member,Platinum,Bogor,Fashion,28.0,59.0,85.0,333.0,2.7,45537.36
+CUST0032,Perempuan,Member,Platinum,Makassar,Olahraga,50.0,42.0,5.0,21.0,3.8,5894.02
+CUST0033,Perempuan,Non-Member,Platinum,Yogyakarta,Elektronik,51.0,16.0,103.0,430.0,,53045.3
+CUST0034,Perempuan,Non-Member,Gold,Batam,Otomotif,18.0,27.0,104.0,404.0,4.6,40152.2
+CUST0035,Laki-laki,Non-Member,Bronze,Makassar,Mainan Anak,52.0,34.0,94.0,383.0,4.1,25959.85
+CUST0036,Perempuan,Member,Bronze,Bekasi,Perabot Rumah,44.0,37.0,61.0,248.0,4.8,19486.59
+CUST0037,Perempuan,Non-Member,Bronze,Palembang,Kecantikan,34.0,60.0,54.0,207.0,4.3,16922.89
+CUST0038,Laki-laki,Non-Member,Gold,Medan,Travel,57.0,67.0,83.0,337.0,3.4,34849.16
+CUST0039,Perempuan,Member,Bronze,Jakarta,Makanan,56.0,81.0,112.0,465.0,3.9,37652.01
+CUST0040,Laki-laki,Member,Platinum,Depok,Elektronik,40.0,21.0,68.0,285.0,4.5,40939.14
+CUST0041,Laki-laki,Member,Silver,Yogyakarta,Olahraga,30.0,61.0,45.0,173.0,2.7,18794.91
+CUST0042,Laki-laki,Non-Member,Gold,Jakarta,Elektronik,28.0,13.0,78.0,297.0,3.0,30438.47
+CUST0043,Perempuan,Non-Member,Silver,Yogyakarta,Elektronik,42.0,24.0,18.0,70.0,3.9,7396.3
+CUST0044,Laki-laki,Non-Member,Silver,Yogyakarta,Gaming,18.0,50.0,65.0,260.0,3.9,21869.23
+CUST0045,Perempuan,Non-Member,Silver,Surabaya,Kesehatan,31.0,31.0,82.0,329.0,2.5,26861.03
+CUST0046,Perempuan,Non-Member,Platinum,Medan,Perabot Rumah,,23.0,50.0,206.0,2.6,26584.63
+CUST0047,Laki-laki,Member,Bronze,Malang,Travel,52.0,65.0,84.0,334.0,4.6,27640.28
+CUST0048,Perempuan,Member,Platinum,Palembang,Buku,28.0,1.0,99.0,407.0,4.6,57232.92
+CUST0049,Perempuan,Member,Gold,Jakarta,Travel,57.0,68.0,110.0,442.0,3.5,51965.04
+CUST0050,Perempuan,Member,Bronze,Malang,Otomotif,33.0,81.0,21.0,81.0,2.5,10351.51
+CUST0051,Perempuan,Non-Member,Silver,Makassar,Gaming,38.0,16.0,54.0,206.0,3.2,17462.98
+CUST0052,Perempuan,Member,Silver,Bekasi,Kecantikan,22.0,55.0,17.0,71.0,4.8,9141.7
+CUST0053,Laki-laki,Non-Member,Bronze,Tangerang,Elektronik,19.0,75.0,35.0,147.0,4.2,12477.56
+CUST0054,Laki-laki,Non-Member,Platinum,Semarang,Kesehatan,53.0,63.0,62.0,240.0,3.7,34562.89
+CUST0055,Laki-laki,Member,Silver,Malang,Perabot Rumah,32.0,30.0,72.0,289.0,3.7,27321.42
+CUST0056,Perempuan,Member,Bronze,Jakarta,Kesehatan,50.0,25.0,26.0,104.0,2.8,8999.53
+CUST0057,Perempuan,Member,Silver,Palembang,Elektronik,26.0,47.0,55.0,218.0,2.9,21637.87
+CUST0058,Laki-laki,Non-Member,Silver,Tangerang,Perabot Rumah,38.0,59.0,80.0,317.0,3.6,27782.76
+CUST0059,Laki-laki,Non-Member,Bronze,Semarang,Makanan,34.0,76.0,51.0,205.0,4.4,16876.69
+CUST0060,Laki-laki,Member,Bronze,Palembang,Makanan,22.0,39.0,108.0,418.0,3.2,33256.86
+CUST0061,Perempuan,Non-Member,Bronze,Bekasi,Buku,39.0,13.0,34.0,130.0,2.8,9515.27
+CUST0062,Perempuan,Member,Gold,Semarang,Mainan Anak,18.0,,46.0,179.0,4.2,21369.79
+CUST0063,Perempuan,Member,Platinum,Makassar,Travel,48.0,57.0,63.0,260.0,4.8,39742.49
+CUST0064,Laki-laki,Non-Member,Gold,Jakarta,Elektronik,50.0,21.0,104.0,435.0,3.5,40345.63
+CUST0065,Perempuan,Member,Bronze,Makassar,Olahraga,58.0,83.0,116.0,461.0,3.5,38278.24
+CUST0066,Laki-laki,Member,Gold,Medan,Buku,55.0,82.0,65.0,254.0,4.2,32730.11
+CUST0067,Perempuan,Member,Silver,Tangerang,Buku,48.0,82.0,48.0,183.0,4.7,21043.94
+CUST0068,Perempuan,Member,Bronze,Bekasi,Perabot Rumah,59.0,42.0,94.0,393.0,4.9,29686.43
+CUST0069,Perempuan,Non-Member,Platinum,Bekasi,Fashion,42.0,1.0,24.0,95.0,3.2,12888.88
+CUST0070,Perempuan,Member,Bronze,Depok,Gaming,34.0,0.0,41.0,170.0,4.9,12606.08
+CUST0071,Perempuan,Member,Silver,Jakarta,Mainan Anak,43.0,11.0,15.0,59.0,4.1,6689.16
+CUST0072,Perempuan,Member,Bronze,Semarang,Makanan,44.0,3.0,69.0,278.0,3.3,20498.33
+CUST0073,Perempuan,Non-Member,Bronze,Pekanbaru,Kesehatan,52.0,69.0,28.0,108.0,4.5,10277.1
+CUST0074,Laki-laki,Member,Platinum,Makassar,Travel,27.0,21.0,118.0,493.0,3.2,69120.26
+CUST0075,Perempuan,Member,Gold,Jakarta,Kecantikan,30.0,15.0,22.0,88.0,2.6,10814.21
+CUST0076,Laki-laki,Non-Member,Silver,Malang,Gaming,58.0,82.0,118.0,460.0,3.2,40037.83
+CUST0077,Perempuan,Member,Bronze,Bekasi,Olahraga,18.0,68.0,64.0,260.0,4.8,21816.65
+CUST0078,Laki-laki,Member,Bronze,Makassar,Gaming,,30.0,25.0,98.0,2.9,8921.37
+CUST0079,Laki-laki,Member,Bronze,Makassar,Travel,27.0,24.0,96.0,388.0,3.2,29430.03
+CUST0080,Perempuan,Member,Gold,Semarang,Makanan,56.0,70.0,92.0,350.0,3.3,43618.04
+CUST0081,Laki-laki,Member,Bronze,Makassar,Fashion,,74.0,1.0,4.0,4.3,4157.8
+CUST0082,Perempuan,Non-Member,Platinum,Palembang,Gaming,32.0,78.0,115.0,461.0,3.4,62162.9
+CUST0083,Laki-laki,Member,Silver,Malang,Kecantikan,18.0,21.0,85.0,332.0,3.9,31370.82
+CUST0084,Perempuan,Non-Member,Silver,Tangerang,Perabot Rumah,22.0,60.0,8.0,31.0,4.2,5397.46
+CUST0085,Laki-laki,Non-Member,Bronze,Malang,Mainan Anak,40.0,64.0,110.0,432.0,4.5,30905.16
+CUST0086,Perempuan,Non-Member,Gold,Pekanbaru,Buku,21.0,25.0,52.0,211.0,3.0,21280.8
+CUST0087,Perempuan,Non-Member,Silver,Surabaya,Mainan Anak,26.0,47.0,91.0,373.0,3.5,29494.43
+CUST0088,Perempuan,Non-Member,Silver,Bekasi,Mainan Anak,33.0,11.0,44.0,169.0,4.6,13568.53
+CUST0089,Perempuan,Non-Member,Silver,Bogor,Perabot Rumah,30.0,28.0,86.0,339.0,4.9,27218.66
+CUST0090,Laki-laki,Member,Gold,Jakarta,Travel,51.0,43.0,54.0,205.0,3.0,26107.9
+CUST0091,Laki-laki,Member,Gold,Makassar,Mainan Anak,29.0,27.0,14.0,55.0,2.6,7892.53
+CUST0092,Laki-laki,Member,Platinum,Pekanbaru,Buku,55.0,10.0,1.0,4.0,2.7,1435.52
+CUST0093,Perempuan,Member,Bronze,Semarang,Kecantikan,46.0,46.0,5.0,21.0,4.8,3621.44
+CUST0094,Laki-laki,Non-Member,Gold,Pekanbaru,Gaming,38.0,13.0,57.0,225.0,3.8,22550.23
+CUST0095,Laki-laki,Member,Silver,Semarang,Gaming,31.0,0.0,68.0,275.0,3.7,23655.21
+CUST0096,Perempuan,Non-Member,Bronze,Makassar,Buku,39.0,70.0,62.0,246.0,4.9,19553.25
+CUST0097,Laki-laki,Member,Bronze,Makassar,Fashion,28.0,18.0,97.0,395.0,3.7,29259.35
+CUST0098,Perempuan,Non-Member,Silver,Malang,Fashion,,74.0,91.0,360.0,4.6,30497.97
+CUST0099,Laki-laki,Non-Member,Silver,Tangerang,Otomotif,45.0,,46.0,180.0,4.1,17138.49
+CUST0100,Laki-laki,Non-Member,Platinum,Jakarta,Makanan,54.0,57.0,87.0,352.0,3.7,47167.63
+CUST0101,Laki-laki,Member,Bronze,Tangerang,Fashion,39.0,72.0,24.0,95.0,4.8,11161.31
+CUST0102,Perempuan,Non-Member,Gold,Medan,Kecantikan,51.0,63.0,94.0,393.0,4.3,39029.74
+CUST0103,Laki-laki,Non-Member,Silver,Bogor,Otomotif,31.0,43.0,76.0,312.0,4.2,24898.68
+CUST0104,Perempuan,Member,Bronze,Bekasi,Elektronik,38.0,2.0,63.0,252.0,3.8,18645.96
+CUST0105,Perempuan,Member,Silver,Medan,Travel,41.0,29.0,73.0,290.0,4.2,27104.51
+CUST0106,Perempuan,Non-Member,Bronze,Batam,Gaming,26.0,43.0,86.0,332.0,3.1,23346.13
+CUST0107,Perempuan,Member,Bronze,Bekasi,Elektronik,39.0,17.0,13.0,53.0,3.1,4741.57
+CUST0108,Perempuan,Member,Gold,Bandung,Fashion,50.0,49.0,75.0,305.0,4.0,35225.41
+CUST0109,Perempuan,Member,Platinum,Semarang,Travel,27.0,20.0,42.0,162.0,3.5,25493.84
+CUST0110,Laki-laki,Member,Gold,Bogor,Buku,42.0,74.0,65.0,264.0,2.6,31744.96
+CUST0111,Laki-laki,Member,Gold,Medan,Otomotif,28.0,46.0,118.0,474.0,2.8,53754.5
+CUST0112,Perempuan,Non-Member,Silver,Bekasi,Buku,27.0,75.0,26.0,109.0,3.2,11340.47
+CUST0113,Perempuan,Member,Gold,Makassar,Perabot Rumah,32.0,59.0,102.0,389.0,4.0,47533.97
+CUST0114,Perempuan,Member,Silver,Bogor,Elektronik,20.0,77.0,48.0,187.0,3.7,20526.99
+CUST0115,Perempuan,Member,Bronze,Malang,Gaming,45.0,51.0,104.0,399.0,2.5,33397.95
+CUST0116,Laki-laki,Non-Member,Gold,Yogyakarta,Kesehatan,21.0,32.0,70.0,293.0,3.6,28135.54
+CUST0117,Perempuan,Non-Member,Silver,Malang,Mainan Anak,41.0,44.0,84.0,322.0,2.7,27642.5
+CUST0118,Perempuan,Member,Gold,Makassar,Elektronik,55.0,31.0,18.0,69.0,4.6,9952.4
+CUST0119,Laki-laki,Member,Bronze,Tangerang,Perabot Rumah,,12.0,113.0,472.0,3.2,33595.23
+CUST0120,Perempuan,Non-Member,Bronze,Bandung,Elektronik,27.0,55.0,104.0,397.0,3.5,28608.7
+CUST0121,Laki-laki,Non-Member,Silver,Depok,Makanan,18.0,50.0,1.0,4.0,4.2,3275.35
+CUST0122,Laki-laki,Member,Bronze,Semarang,Kesehatan,40.0,32.0,58.0,222.0,4.5,18429.86
+CUST0123,Perempuan,Member,Gold,Bogor,Buku,22.0,44.0,68.0,285.0,3.3,31764.01
+CUST0124,Perempuan,Non-Member,Silver,Bandung,Fashion,27.0,15.0,25.0,97.0,2.8,8672.69
+CUST0125,Laki-laki,Member,Platinum,Pekanbaru,Makanan,36.0,41.0,118.0,467.0,3.4,70553.42
+CUST0126,Laki-laki,Non-Member,Bronze,Bandung,Buku,31.0,34.0,20.0,81.0,,6883.02
+CUST0127,Perempuan,Member,Silver,Yogyakarta,Olahraga,43.0,22.0,102.0,426.0,3.3,36236.4
+CUST0128,Perempuan,Member,Bronze,Tangerang,Travel,35.0,44.0,86.0,347.0,2.5,27270.55
+CUST0129,Perempuan,Member,Platinum,Palembang,Travel,49.0,49.0,13.0,51.0,4.1,10576.74
+CUST0130,Perempuan,Non-Member,Gold,Medan,Travel,29.0,67.0,110.0,427.0,3.2,179340.0
+CUST0131,Laki-laki,Non-Member,Silver,Bogor,Fashion,20.0,22.0,89.0,368.0,4.8,27956.7
+CUST0132,Perempuan,Member,Bronze,Palembang,Elektronik,51.0,18.0,39.0,160.0,4.8,12784.94
+CUST0133,Perempuan,Member,Bronze,Makassar,Mainan Anak,56.0,74.0,50.0,197.0,3.8,19009.76
+CUST0134,Laki-laki,Member,Bronze,Medan,Elektronik,19.0,,21.0,84.0,3.1,8170.18
+CUST0135,Perempuan,Non-Member,Bronze,Tangerang,Buku,27.0,45.0,100.0,404.0,3.4,27551.18
+CUST0136,Perempuan,Member,Silver,Bekasi,Elektronik,57.0,83.0,46.0,184.0,3.6,21267.24
+CUST0137,Laki-laki,Member,Gold,Tangerang,Elektronik,58.0,76.0,39.0,161.0,4.4,21536.67
+CUST0138,Perempuan,Member,Silver,Pekanbaru,Elektronik,21.0,47.0,101.0,391.0,4.3,36851.87
+CUST0139,Perempuan,Member,Bronze,Jakarta,Buku,29.0,22.0,17.0,69.0,3.6,6150.7
+CUST0140,Perempuan,Member,Silver,Bandung,Gaming,32.0,36.0,12.0,46.0,4.4,5868.97
+CUST0141,Perempuan,Member,Gold,Malang,Perabot Rumah,53.0,11.0,16.0,63.0,4.2,8354.67
+CUST0142,Perempuan,Non-Member,Gold,Pekanbaru,Kecantikan,39.0,67.0,15.0,62.0,2.8,9460.48
+CUST0143,Perempuan,Non-Member,Bronze,Depok,Kecantikan,54.0,14.0,14.0,59.0,4.4,4639.13
+CUST0144,Perempuan,Member,Bronze,Makassar,Kesehatan,48.0,72.0,18.0,75.0,3.8,9362.62
+CUST0145,Laki-laki,Member,Silver,Surabaya,Fashion,,13.0,85.0,352.0,,30319.01
+CUST0146,Laki-laki,Member,Silver,Bandung,Elektronik,35.0,75.0,73.0,295.0,4.0,29332.33
+CUST0147,Laki-laki,Non-Member,Bronze,Palembang,Mainan Anak,31.0,37.0,40.0,157.0,4.3,12317.71
+CUST0148,Laki-laki,Non-Member,Bronze,Bekasi,Buku,31.0,66.0,69.0,272.0,4.3,20727.15
+CUST0149,Laki-laki,Member,Bronze,Bogor,Perabot Rumah,20.0,39.0,12.0,50.0,5.0,5211.23
+CUST0150,Perempuan,Non-Member,Gold,Yogyakarta,Olahraga,50.0,11.0,96.0,396.0,3.7,37068.82
+CUST0151,Laki-laki,Member,Bronze,Yogyakarta,Fashion,22.0,66.0,78.0,299.0,4.0,25993.91
+CUST0152,Laki-laki,Non-Member,Silver,Jakarta,Otomotif,40.0,67.0,102.0,406.0,4.0,34804.57
+CUST0153,Laki-laki,Member,Silver,Malang,Otomotif,29.0,82.0,95.0,393.0,4.8,37078.01
+CUST0154,Perempuan,Member,Gold,Malang,Otomotif,,66.0,19.0,73.0,2.8,11829.79
+CUST0155,Laki-laki,Non-Member,Silver,Surabaya,Fashion,39.0,32.0,39.0,159.0,4.0,14311.1
+CUST0156,Laki-laki,Non-Member,Gold,Bandung,Kecantikan,53.0,43.0,4.0,16.0,3.6,4020.54
+CUST0157,Perempuan,Member,Bronze,Batam,Gaming,33.0,53.0,113.0,458.0,2.6,35819.77
+CUST0158,Laki-laki,Non-Member,Gold,Bandung,Olahraga,25.0,10.0,33.0,130.0,,13037.56
+CUST0159,Laki-laki,Member,Silver,Tangerang,Buku,30.0,57.0,113.0,447.0,4.7,41891.89
+CUST0160,Laki-laki,Non-Member,Bronze,Batam,Fashion,25.0,71.0,34.0,136.0,4.9,12534.16
+CUST0161,Laki-laki,Member,Gold,Batam,Kesehatan,35.0,3.0,72.0,284.0,3.5,31655.21
+CUST0162,Perempuan,Member,Bronze,Depok,Elektronik,23.0,44.0,49.0,194.0,4.7,16434.45
+CUST0163,Perempuan,Non-Member,Bronze,Surabaya,Makanan,32.0,19.0,38.0,148.0,4.4,10864.08
+CUST0164,Perempuan,Member,Silver,Batam,Mainan Anak,43.0,14.0,119.0,469.0,2.8,42742.13
+CUST0165,Laki-laki,Member,Bronze,Pekanbaru,Mainan Anak,28.0,60.0,117.0,451.0,4.4,37359.87
+CUST0166,Perempuan,Member,Silver,Palembang,Kecantikan,47.0,74.0,65.0,267.0,3.7,26700.76
+CUST0167,Perempuan,Non-Member,Bronze,Pekanbaru,Otomotif,50.0,1.0,69.0,263.0,4.5,17631.76
+CUST0168,Laki-laki,Member,Bronze,Medan,Olahraga,53.0,38.0,57.0,221.0,3.7,18744.97
+CUST0169,Laki-laki,Member,Platinum,Tangerang,Travel,38.0,64.0,79.0,313.0,3.3,48980.51
+CUST0170,Perempuan,Member,Gold,Malang,Buku,30.0,73.0,110.0,425.0,3.9,51455.62
+CUST0171,Laki-laki,Member,Bronze,Bekasi,Travel,27.0,1.0,98.0,396.0,3.4,28808.78
+CUST0172,Perempuan,Non-Member,Bronze,Bandung,Makanan,35.0,15.0,53.0,215.0,3.8,14747.55
+CUST0173,Laki-laki,Member,Silver,Semarang,Perabot Rumah,27.0,35.0,6.0,23.0,4.8,4313.65
+CUST0174,Laki-laki,Member,Bronze,Tangerang,Makanan,36.0,82.0,47.0,181.0,,17833.16
+CUST0175,Laki-laki,Member,Bronze,Palembang,Travel,47.0,74.0,104.0,422.0,,33914.41
+CUST0176,Perempuan,Non-Member,Gold,Semarang,Travel,37.0,62.0,100.0,392.0,4.8,40161.94
+CUST0177,Laki-laki,Member,Silver,Bekasi,Travel,42.0,72.0,59.0,229.0,4.3,24153.75
+CUST0178,Laki-laki,Member,Silver,Bekasi,Fashion,36.0,19.0,56.0,226.0,4.7,21079.75
+CUST0179,Laki-laki,Member,Bronze,Bandung,Perabot Rumah,31.0,17.0,92.0,375.0,3.7,28161.29
+CUST0180,Laki-laki,Member,Bronze,Batam,Fashion,48.0,12.0,100.0,398.0,4.6,30302.53
+CUST0181,Laki-laki,Member,Bronze,Depok,Olahraga,39.0,16.0,60.0,245.0,3.1,18613.82
+CUST0182,Perempuan,Member,Silver,Palembang,Elektronik,31.0,59.0,71.0,283.0,4.5,27757.76
+CUST0183,Perempuan,Member,Silver,Makassar,Buku,37.0,50.0,43.0,167.0,,17584.94
+CUST0184,Perempuan,Non-Member,Gold,Depok,Travel,,76.0,74.0,293.0,5.0,32101.31
+CUST0185,Laki-laki,Member,Bronze,Bekasi,Perabot Rumah,31.0,47.0,49.0,189.0,4.7,16706.74
+CUST0186,Laki-laki,Member,Gold,Malang,Buku,35.0,75.0,20.0,78.0,3.3,12860.09
+CUST0187,Perempuan,Member,Platinum,Bekasi,Olahraga,54.0,27.0,1.0,4.0,3.5,2444.12
+CUST0188,Laki-laki,Member,Bronze,Bekasi,Mainan Anak,25.0,43.0,106.0,430.0,,32717.49
+CUST0189,Perempuan,Non-Member,Silver,Malang,Kesehatan,27.0,54.0,27.0,105.0,2.6,10621.02
+CUST0190,Perempuan,Member,Silver,Jakarta,Makanan,,16.0,101.0,420.0,4.3,36357.53
+CUST0191,Perempuan,Non-Member,Gold,Bogor,Elektronik,33.0,39.0,43.0,180.0,3.2,18660.81
+CUST0192,Laki-laki,Member,Bronze,Bandung,Kecantikan,42.0,58.0,112.0,445.0,4.2,35843.32
+CUST0193,Perempuan,Member,Bronze,Yogyakarta,Olahraga,18.0,77.0,67.0,281.0,2.6,23491.25
+CUST0194,Laki-laki,Member,Gold,Yogyakarta,Kesehatan,55.0,72.0,80.0,321.0,3.1,38239.62
+CUST0195,Laki-laki,Member,Silver,Medan,Fashion,59.0,71.0,9.0,37.0,3.7,7283.97
+CUST0196,Laki-laki,Non-Member,Gold,Tangerang,Olahraga,42.0,71.0,13.0,52.0,2.8,8717.5
+CUST0197,Laki-laki,Member,Bronze,Depok,Perabot Rumah,20.0,61.0,63.0,259.0,3.8,21758.49
+CUST0198,Perempuan,Member,Bronze,Bekasi,Buku,20.0,22.0,61.0,253.0,3.8,19222.45
+CUST0199,Perempuan,Member,Bronze,Jakarta,Perabot Rumah,27.0,23.0,22.0,85.0,,7909.33
+CUST0200,Laki-laki,Non-Member,Silver,Semarang,Kecantikan,48.0,71.0,93.0,387.0,3.1,31663.01
+CUST0201,Laki-laki,Non-Member,Bronze,Surabaya,Mainan Anak,30.0,75.0,76.0,300.0,4.3,23029.21
+CUST0202,Laki-laki,Non-Member,Silver,Depok,Elektronik,19.0,38.0,44.0,185.0,3.2,15685.16
+CUST0203,Perempuan,Member,Bronze,Palembang,Otomotif,31.0,13.0,51.0,211.0,2.7,15700.65
+CUST0204,Perempuan,Member,Platinum,Makassar,Elektronik,57.0,80.0,44.0,169.0,,29552.05
+CUST0205,Perempuan,Non-Member,Bronze,Depok,Fashion,39.0,66.0,11.0,44.0,3.6,6238.32
+CUST0206,Perempuan,Member,Gold,Surabaya,Otomotif,43.0,64.0,109.0,440.0,,51382.7
+CUST0207,Perempuan,Member,Bronze,Yogyakarta,Buku,33.0,4.0,82.0,324.0,4.3,24186.89
+CUST0208,Laki-laki,Non-Member,Platinum,Bogor,Olahraga,44.0,,71.0,274.0,3.8,39652.58
+CUST0209,Laki-laki,Member,Bronze,Bogor,Elektronik,44.0,11.0,117.0,470.0,4.2,35428.07
+CUST0210,Laki-laki,Member,Gold,Bogor,Mainan Anak,24.0,26.0,73.0,301.0,4.4,33221.01
+CUST0211,Perempuan,Non-Member,Silver,Makassar,Gaming,49.0,53.0,52.0,201.0,4.6,18662.61
+CUST0212,Laki-laki,Member,Gold,Pekanbaru,Mainan Anak,44.0,34.0,64.0,252.0,3.5,29947.44
+CUST0213,Laki-laki,Member,Platinum,Jakarta,Fashion,36.0,9.0,92.0,371.0,3.0,53749.91
+CUST0214,Perempuan,Member,Gold,Surabaya,Mainan Anak,28.0,54.0,39.0,154.0,,20076.21
+CUST0215,Perempuan,Member,Silver,Medan,Otomotif,22.0,25.0,60.0,249.0,4.0,21760.75
+CUST0216,Laki-laki,Non-Member,Silver,Medan,Fashion,28.0,6.0,34.0,133.0,4.6,10761.56
+CUST0217,Perempuan,Member,Gold,Surabaya,Makanan,57.0,48.0,65.0,250.0,3.9,30596.18
+CUST0218,Perempuan,Member,Platinum,Tangerang,Makanan,51.0,43.0,61.0,245.0,4.0,37180.34
+CUST0219,Perempuan,Non-Member,Silver,Batam,Buku,31.0,11.0,47.0,179.0,3.2,14729.96
+CUST0220,Perempuan,Non-Member,Bronze,Bogor,Elektronik,37.0,83.0,91.0,382.0,4.5,26852.28
+CUST0221,Perempuan,Member,Silver,Malang,Makanan,51.0,80.0,94.0,383.0,3.1,37116.9
+CUST0222,Laki-laki,Member,Silver,Bandung,Buku,55.0,,104.0,431.0,4.8,40195.26
+CUST0223,Perempuan,Member,Bronze,Yogyakarta,Elektronik,57.0,35.0,4.0,16.0,3.9,3751.77
+CUST0224,Perempuan,Member,Gold,Yogyakarta,Buku,51.0,7.0,101.0,409.0,2.8,44156.23
+CUST0225,Laki-laki,Member,Bronze,Yogyakarta,Fashion,19.0,43.0,77.0,294.0,4.2,24482.88
+CUST0226,Laki-laki,Non-Member,Silver,Bogor,Olahraga,21.0,53.0,93.0,383.0,3.1,30812.67
+CUST0227,Perempuan,Non-Member,Bronze,Bandung,Kecantikan,48.0,57.0,110.0,427.0,2.6,31085.94
+CUST0228,Laki-laki,Non-Member,Platinum,Jakarta,Perabot Rumah,51.0,7.0,38.0,159.0,3.7,121763.0
+CUST0229,Laki-laki,Non-Member,Gold,Depok,Kesehatan,42.0,48.0,103.0,431.0,3.7,42100.94
+CUST0230,Laki-laki,Member,Bronze,Makassar,Kesehatan,49.0,59.0,105.0,404.0,3.5,33590.47
+CUST0231,Perempuan,Member,Silver,Pekanbaru,Gaming,24.0,43.0,119.0,492.0,4.4,43134.26
+CUST0232,Laki-laki,Member,Silver,Malang,Otomotif,38.0,31.0,25.0,98.0,2.7,10041.82
+CUST0233,Laki-laki,Member,Silver,Batam,Mainan Anak,34.0,8.0,18.0,69.0,2.6,7127.02
+CUST0234,Laki-laki,Member,Platinum,Medan,Otomotif,53.0,44.0,21.0,85.0,2.8,14105.54
+CUST0235,Perempuan,Non-Member,Platinum,Surabaya,Otomotif,20.0,24.0,49.0,201.0,,25525.2
+CUST0236,Laki-laki,Member,Silver,Makassar,Travel,26.0,27.0,44.0,172.0,4.2,17149.99
+CUST0237,Laki-laki,Member,Gold,Makassar,Gaming,33.0,16.0,80.0,328.0,4.5,35738.75
+CUST0238,Perempuan,Member,Silver,Medan,Elektronik,32.0,52.0,50.0,207.0,3.1,19908.04
+CUST0239,Perempuan,Member,Gold,Bekasi,Gaming,,,32.0,134.0,2.5,14446.62
+CUST0240,Perempuan,Non-Member,Bronze,Bekasi,Elektronik,38.0,21.0,48.0,193.0,3.7,13407.49
+CUST0241,Laki-laki,Member,Bronze,Malang,Makanan,37.0,79.0,53.0,207.0,,19632.58
+CUST0242,Perempuan,Member,Silver,Bekasi,Kecantikan,52.0,59.0,8.0,33.0,2.7,6020.31
+CUST0243,Perempuan,Non-Member,Silver,Makassar,Gaming,35.0,64.0,11.0,44.0,4.0,6791.38
+CUST0244,Laki-laki,Member,Silver,Bekasi,Kecantikan,52.0,73.0,39.0,159.0,3.2,17748.3
+CUST0245,Perempuan,Member,Bronze,Surabaya,Mainan Anak,25.0,81.0,47.0,192.0,4.1,17683.87
+CUST0246,Perempuan,Non-Member,Bronze,Bekasi,Otomotif,27.0,21.0,98.0,411.0,4.5,26091.99
+CUST0247,Perempuan,Member,Bronze,Tangerang,Kesehatan,28.0,48.0,30.0,119.0,3.7,11245.78
+CUST0248,Perempuan,Member,Gold,Depok,Elektronik,27.0,2.0,109.0,426.0,3.6,48058.47
+CUST0249,Perempuan,Non-Member,Silver,Semarang,Mainan Anak,56.0,4.0,14.0,58.0,4.8,4650.46
+CUST0250,Laki-laki,Member,Silver,Tangerang,Makanan,43.0,2.0,112.0,426.0,3.7,39386.35
+CUST0251,Laki-laki,Non-Member,Gold,Semarang,Travel,40.0,67.0,97.0,375.0,3.3,40271.59
+CUST0252,Perempuan,Non-Member,Platinum,Surabaya,Makanan,47.0,1.0,38.0,159.0,,19554.44
+CUST0253,Perempuan,Member,Silver,Depok,Kesehatan,22.0,29.0,67.0,269.0,3.3,25268.07
+CUST0254,Laki-laki,Non-Member,Silver,Bogor,Kesehatan,45.0,36.0,23.0,94.0,4.8,8925.59
+CUST0255,Laki-laki,Non-Member,Gold,Semarang,Elektronik,26.0,31.0,104.0,416.0,2.7,40288.12
+CUST0256,Perempuan,Member,Silver,Batam,Travel,19.0,18.0,37.0,146.0,3.4,13133.43
+CUST0257,Perempuan,Non-Member,Silver,Palembang,Travel,54.0,0.0,83.0,319.0,2.6,25809.4
+CUST0258,Perempuan,Member,Silver,Tangerang,Kecantikan,22.0,23.0,33.0,132.0,2.7,12699.81
+CUST0259,Perempuan,Non-Member,Bronze,Bandung,Makanan,55.0,56.0,68.0,268.0,3.2,20679.92
+CUST0260,Laki-laki,Member,Gold,Semarang,Buku,,,56.0,219.0,4.4,25607.53
+CUST0261,Laki-laki,Non-Member,Bronze,Medan,Travel,39.0,8.0,42.0,176.0,4.4,11267.6
+CUST0262,Laki-laki,Member,Silver,Makassar,Elektronik,,59.0,63.0,242.0,3.2,25440.08
+CUST0263,Perempuan,Member,Gold,Bogor,Elektronik,35.0,76.0,53.0,206.0,3.1,26900.88
+CUST0264,Perempuan,Member,Silver,Bekasi,Gaming,49.0,40.0,101.0,405.0,4.5,36954.45
+CUST0265,Laki-laki,Non-Member,Silver,Bandung,Elektronik,56.0,38.0,88.0,347.0,4.5,28885.21
+CUST0266,Perempuan,Member,Silver,Yogyakarta,Kecantikan,53.0,54.0,64.0,250.0,3.1,25175.61
+CUST0267,Perempuan,Member,Platinum,Batam,Makanan,40.0,17.0,6.0,23.0,4.3,5023.6
+CUST0268,Laki-laki,Member,Silver,Medan,Travel,40.0,82.0,12.0,49.0,3.9,8582.31
+CUST0269,Perempuan,Non-Member,Gold,Malang,Buku,19.0,34.0,78.0,301.0,3.5,30846.64
+CUST0270,Laki-laki,Member,Gold,Palembang,Perabot Rumah,31.0,11.0,9.0,36.0,4.0,4274.99
+CUST0271,Perempuan,Non-Member,Bronze,Palembang,Kesehatan,30.0,30.0,35.0,147.0,3.4,10877.68
+CUST0272,Perempuan,Member,Silver,Surabaya,Gaming,39.0,49.0,66.0,255.0,3.4,25505.95
+CUST0273,Laki-laki,Non-Member,Gold,Makassar,Olahraga,55.0,20.0,7.0,28.0,4.0,4248.3
+CUST0274,Laki-laki,Member,Silver,Malang,Kecantikan,35.0,52.0,79.0,315.0,3.9,29589.77
+CUST0275,Laki-laki,Non-Member,Platinum,Batam,Elektronik,24.0,1.0,77.0,294.0,3.8,38899.59
+CUST0276,Laki-laki,Non-Member,Gold,Bandung,Kesehatan,22.0,71.0,43.0,170.0,3.6,19710.54
+CUST0277,Laki-laki,Non-Member,Silver,Bogor,Makanan,34.0,12.0,60.0,252.0,2.7,18996.49
+CUST0278,Perempuan,Member,Bronze,Pekanbaru,Fashion,49.0,44.0,117.0,462.0,2.8,35850.96
+CUST0279,Laki-laki,Member,Bronze,Semarang,Gaming,33.0,50.0,19.0,79.0,4.3,7737.39
+CUST0280,Perempuan,Member,Silver,Bogor,Kecantikan,26.0,82.0,11.0,42.0,3.2,8500.97
+CUST0281,Laki-laki,Member,Silver,Jakarta,Fashion,44.0,61.0,23.0,93.0,4.1,11164.54
+CUST0282,Laki-laki,Member,Silver,Yogyakarta,Makanan,20.0,24.0,117.0,474.0,3.6,42009.44
+CUST0283,Laki-laki,Non-Member,Bronze,Pekanbaru,Otomotif,30.0,24.0,28.0,111.0,4.6,8406.74
+CUST0284,Perempuan,Non-Member,Bronze,Yogyakarta,Kesehatan,23.0,50.0,56.0,229.0,3.3,16472.66
+CUST0285,Perempuan,Member,Platinum,Makassar,Elektronik,47.0,28.0,17.0,66.0,,10831.76
+CUST0286,Perempuan,Member,Platinum,Surabaya,Mainan Anak,37.0,14.0,63.0,256.0,5.0,37139.94
+CUST0287,Perempuan,Non-Member,Silver,Makassar,Otomotif,57.0,78.0,7.0,28.0,3.3,6475.26
+CUST0288,Laki-laki,Member,Gold,Palembang,Elektronik,37.0,80.0,85.0,326.0,3.7,40900.73
+CUST0289,Laki-laki,Member,Bronze,Makassar,Perabot Rumah,39.0,26.0,38.0,153.0,3.0,12319.76
+CUST0290,Perempuan,Non-Member,Gold,Depok,Kecantikan,29.0,38.0,45.0,174.0,4.3,19080.94
+CUST0291,Laki-laki,Member,Silver,Yogyakarta,Elektronik,38.0,55.0,41.0,163.0,3.0,17590.85
+CUST0292,Laki-laki,Member,Silver,Malang,Elektronik,29.0,67.0,88.0,345.0,2.5,33867.43
+CUST0293,Laki-laki,Member,Silver,Semarang,Perabot Rumah,33.0,66.0,14.0,54.0,4.9,8462.29
+CUST0294,Perempuan,Non-Member,Gold,Depok,Makanan,31.0,73.0,52.0,205.0,3.2,23338.56
+CUST0295,Laki-laki,Member,Bronze,Yogyakarta,Makanan,50.0,42.0,50.0,209.0,3.5,17167.21
+CUST0296,Laki-laki,Non-Member,Bronze,Jakarta,Elektronik,59.0,60.0,111.0,439.0,3.9,166411.0
+CUST0297,Perempuan,Member,Silver,Bogor,Makanan,18.0,53.0,54.0,208.0,3.4,21112.55
+CUST0298,Perempuan,Non-Member,Bronze,Pekanbaru,Buku,29.0,20.0,55.0,215.0,4.6,15177.3
+CUST0299,Laki-laki,Non-Member,Platinum,Malang,Otomotif,55.0,22.0,34.0,131.0,3.0,18635.06
+CUST0300,Perempuan,Non-Member,Platinum,Bogor,Buku,32.0,0.0,72.0,297.0,3.0,36451.46
+CUST0301,Laki-laki,Non-Member,Platinum,Batam,Kecantikan,42.0,15.0,2.0,8.0,3.8,2080.63
+CUST0302,Laki-laki,Non-Member,Silver,Bandung,Buku,52.0,8.0,79.0,309.0,3.3,24641.86
+CUST0303,Perempuan,Member,Bronze,Yogyakarta,Otomotif,38.0,7.0,70.0,268.0,3.9,21149.11
+CUST0304,Laki-laki,Non-Member,Bronze,Depok,Gaming,36.0,35.0,31.0,128.0,4.4,9916.48
+CUST0305,Perempuan,Non-Member,Silver,Jakarta,Buku,32.0,76.0,8.0,33.0,,6172.65
+CUST0306,Laki-laki,Member,Bronze,Yogyakarta,Kecantikan,39.0,41.0,119.0,489.0,4.4,36855.46
+CUST0307,Perempuan,Non-Member,Bronze,Batam,Fashion,55.0,26.0,104.0,399.0,3.9,27499.67
+CUST0308,Perempuan,Member,Silver,Pekanbaru,Gaming,23.0,36.0,115.0,457.0,5.0,41107.4
+CUST0309,Laki-laki,Non-Member,Platinum,Pekanbaru,Otomotif,39.0,19.0,56.0,221.0,4.3,29088.56
+CUST0310,Laki-laki,Non-Member,Silver,Batam,Otomotif,35.0,47.0,73.0,305.0,3.8,25152.37
+CUST0311,Perempuan,Non-Member,Bronze,Jakarta,Kecantikan,23.0,41.0,85.0,353.0,2.8,23709.94
+CUST0312,Perempuan,Member,Silver,Makassar,Makanan,31.0,15.0,30.0,119.0,2.9,11472.75
+CUST0313,Laki-laki,Member,Silver,Jakarta,Makanan,56.0,3.0,106.0,409.0,2.7,37465.47
+CUST0314,Laki-laki,Member,Bronze,Palembang,Kesehatan,40.0,48.0,31.0,119.0,3.4,12149.71
+CUST0315,Laki-laki,Non-Member,Gold,Depok,Travel,45.0,9.0,111.0,428.0,4.1,42574.85
+CUST0316,Laki-laki,Non-Member,Bronze,Malang,Gaming,44.0,66.0,31.0,124.0,4.2,11396.74
+CUST0317,Laki-laki,Member,Gold,Semarang,Kecantikan,46.0,2.0,27.0,112.0,3.7,12290.29
+CUST0318,Laki-laki,Member,Platinum,Palembang,Olahraga,47.0,34.0,1.0,4.0,4.9,2678.15
+CUST0319,Perempuan,Member,Bronze,Depok,Kecantikan,54.0,71.0,105.0,424.0,4.8,166727.0
+CUST0320,Perempuan,Member,Silver,Semarang,Buku,20.0,72.0,29.0,120.0,3.3,14360.73
+CUST0321,Perempuan,Non-Member,Silver,Bekasi,Makanan,40.0,28.0,107.0,434.0,3.1,33962.84
+CUST0322,Perempuan,Member,Silver,Tangerang,Otomotif,31.0,41.0,19.0,76.0,3.2,8912.65
+CUST0323,Laki-laki,Member,Bronze,Jakarta,Perabot Rumah,45.0,60.0,42.0,173.0,3.9,15685.86
+CUST0324,Perempuan,Member,Silver,Jakarta,Kecantikan,34.0,4.0,110.0,434.0,4.8,37716.33
+CUST0325,Perempuan,Member,Platinum,Bogor,Mainan Anak,56.0,1.0,86.0,333.0,3.4,49717.86
+CUST0326,Laki-laki,Member,Gold,Bogor,Kecantikan,24.0,74.0,71.0,272.0,4.7,34248.7
+CUST0327,Perempuan,Non-Member,Bronze,Jakarta,Otomotif,33.0,22.0,53.0,221.0,3.3,14770.78
+CUST0328,Perempuan,Member,Bronze,Batam,Gaming,29.0,2.0,79.0,322.0,3.6,23819.71
+CUST0329,Laki-laki,Non-Member,Platinum,Depok,Mainan Anak,37.0,33.0,37.0,148.0,3.7,20372.31
+CUST0330,Perempuan,Non-Member,Silver,Malang,Travel,53.0,64.0,34.0,133.0,4.8,14058.43
+CUST0331,Perempuan,Member,Gold,Jakarta,Otomotif,22.0,6.0,40.0,157.0,3.2,17740.48
+CUST0332,Laki-laki,Non-Member,Silver,Surabaya,Buku,23.0,,6.0,24.0,4.5,5894.54
+CUST0333,Laki-laki,Non-Member,Platinum,Surabaya,Elektronik,57.0,61.0,88.0,352.0,3.0,47430.04
+CUST0334,Laki-laki,Non-Member,Silver,Bandung,Otomotif,27.0,76.0,5.0,20.0,3.7,5406.36
+CUST0335,Laki-laki,Non-Member,Silver,Pekanbaru,Makanan,27.0,19.0,54.0,207.0,4.2,17222.84
+CUST0336,Laki-laki,Member,Gold,Jakarta,Travel,26.0,83.0,15.0,58.0,4.7,10811.77
+CUST0337,Laki-laki,Member,Bronze,Depok,Buku,26.0,69.0,73.0,296.0,,24992.04
+CUST0338,Perempuan,Member,Bronze,Semarang,Travel,42.0,45.0,59.0,242.0,4.4,19803.01
+CUST0339,Laki-laki,Member,Gold,Bandung,Buku,,47.0,108.0,419.0,3.5,48975.05
+CUST0340,Laki-laki,Member,Bronze,Depok,Gaming,58.0,81.0,99.0,389.0,4.8,33259.78
+CUST0341,Laki-laki,Member,Silver,Bogor,Buku,52.0,65.0,19.0,78.0,3.0,10526.93
+CUST0342,Perempuan,Member,Silver,Tangerang,Perabot Rumah,48.0,17.0,7.0,27.0,4.1,3968.2
+CUST0343,Perempuan,Member,Platinum,Pekanbaru,Kecantikan,36.0,,15.0,61.0,2.6,11733.15
+CUST0344,Laki-laki,Non-Member,Bronze,Medan,Otomotif,40.0,36.0,114.0,436.0,3.1,30977.58
+CUST0345,Perempuan,Member,Gold,Depok,Buku,57.0,72.0,74.0,299.0,3.6,36179.44
+CUST0346,Perempuan,Member,Platinum,Medan,Travel,43.0,53.0,97.0,404.0,4.1,59094.62
+CUST0347,Perempuan,Member,Silver,Pekanbaru,Travel,29.0,48.0,18.0,71.0,4.8,8900.68
+CUST0348,Perempuan,Member,Bronze,Semarang,Perabot Rumah,34.0,9.0,116.0,446.0,4.6,34007.63
+CUST0349,Perempuan,Non-Member,Gold,Semarang,Elektronik,31.0,69.0,67.0,267.0,3.6,28799.9
+CUST0350,Laki-laki,Member,Bronze,Semarang,Makanan,23.0,22.0,101.0,384.0,4.6,29880.74
+CUST0351,Laki-laki,Member,Gold,Semarang,Mainan Anak,18.0,21.0,1.0,4.0,2.5,1938.38
+CUST0352,Perempuan,Member,Bronze,Medan,Mainan Anak,42.0,43.0,113.0,464.0,4.2,35046.87
+CUST0353,Laki-laki,Non-Member,Silver,Bandung,Gaming,41.0,40.0,93.0,386.0,4.5,30346.35
+CUST0354,Perempuan,Member,Bronze,Jakarta,Makanan,49.0,72.0,81.0,316.0,3.4,27274.39
+CUST0355,Perempuan,Non-Member,Silver,Semarang,Gaming,56.0,8.0,65.0,248.0,2.7,20501.18
+CUST0356,Perempuan,Non-Member,Silver,Palembang,Elektronik,,43.0,101.0,385.0,3.6,33429.31
+CUST0357,Laki-laki,Non-Member,Silver,Yogyakarta,Travel,,59.0,47.0,193.0,4.0,17456.33
+CUST0358,Laki-laki,Non-Member,Gold,Makassar,Buku,41.0,24.0,29.0,115.0,3.9,12007.09
+CUST0359,Laki-laki,Member,Bronze,Bekasi,Olahraga,58.0,1.0,9.0,35.0,3.8,3165.69
+CUST0360,Perempuan,Member,Bronze,Jakarta,Kecantikan,29.0,68.0,106.0,418.0,,34568.64
+CUST0361,Laki-laki,Member,Bronze,Yogyakarta,Gaming,20.0,15.0,75.0,301.0,3.9,22315.32
+CUST0362,Laki-laki,Member,Gold,Surabaya,Fashion,56.0,58.0,23.0,95.0,3.8,13640.44
+CUST0363,Perempuan,Member,Platinum,Tangerang,Fashion,38.0,44.0,108.0,422.0,3.9,64878.28
+CUST0364,Laki-laki,Member,Bronze,Jakarta,Olahraga,28.0,51.0,118.0,453.0,3.6,37024.11
+CUST0365,Laki-laki,Non-Member,Silver,Semarang,Otomotif,34.0,18.0,40.0,166.0,4.0,13293.79
+CUST0366,Laki-laki,Member,Platinum,Malang,Travel,56.0,36.0,19.0,75.0,4.3,13721.55
+CUST0367,Laki-laki,Non-Member,Bronze,Surabaya,Kesehatan,35.0,42.0,68.0,266.0,2.8,19757.44
+CUST0368,Perempuan,Member,Bronze,Tangerang,Travel,38.0,56.0,88.0,340.0,2.9,28429.64
+CUST0369,Laki-laki,Member,Bronze,Jakarta,Olahraga,24.0,32.0,57.0,231.0,4.9,18037.61
+CUST0370,Perempuan,Member,Gold,Yogyakarta,Elektronik,50.0,48.0,98.0,390.0,4.4,45492.29
+CUST0371,Laki-laki,Member,Bronze,Surabaya,Kecantikan,53.0,39.0,46.0,190.0,4.4,15489.31
+CUST0372,Perempuan,Non-Member,Bronze,Pekanbaru,Buku,56.0,40.0,106.0,407.0,3.1,29780.41
+CUST0373,Perempuan,Non-Member,Silver,Bandung,Perabot Rumah,30.0,66.0,78.0,327.0,4.0,27192.32
+CUST0374,Laki-laki,Non-Member,Silver,Jakarta,Makanan,49.0,38.0,89.0,352.0,4.7,29105.73
+CUST0375,Laki-laki,Non-Member,Bronze,Semarang,Gaming,33.0,56.0,113.0,466.0,3.8,31557.78
+CUST0376,Perempuan,Member,Bronze,Semarang,Elektronik,31.0,26.0,106.0,427.0,4.7,31967.12
+CUST0377,Perempuan,Member,Bronze,Batam,Fashion,31.0,68.0,103.0,397.0,2.9,33195.35
+CUST0378,Laki-laki,Member,Bronze,Yogyakarta,Olahraga,34.0,57.0,71.0,288.0,3.9,23526.39
+CUST0379,Laki-laki,Non-Member,Bronze,Makassar,Fashion,36.0,1.0,25.0,100.0,3.0,6199.4
+CUST0380,Perempuan,Member,Silver,Malang,Kesehatan,33.0,8.0,116.0,448.0,3.8,40541.97
+CUST0381,Laki-laki,Non-Member,Bronze,Palembang,Buku,38.0,59.0,106.0,427.0,4.1,29571.76
+CUST0382,Perempuan,Member,Bronze,Semarang,Fashion,52.0,62.0,36.0,144.0,4.8,14202.13
+CUST0383,Laki-laki,Member,Gold,Bekasi,Makanan,,57.0,26.0,105.0,2.8,13787.39
+CUST0384,Laki-laki,Non-Member,Silver,Palembang,Kecantikan,,9.0,117.0,487.0,3.9,35729.9
+CUST0385,Laki-laki,Non-Member,Bronze,Medan,Otomotif,47.0,61.0,80.0,307.0,4.4,23003.92
+CUST0386,Laki-laki,Non-Member,Gold,Bogor,Kesehatan,34.0,68.0,13.0,51.0,4.1,8273.65
+CUST0387,Perempuan,Non-Member,Silver,Yogyakarta,Perabot Rumah,34.0,37.0,53.0,203.0,4.9,18099.64
+CUST0388,Perempuan,Member,Silver,Bandung,Otomotif,45.0,8.0,81.0,317.0,2.6,29311.03
+CUST0389,Perempuan,Member,Bronze,Semarang,Olahraga,20.0,38.0,10.0,41.0,3.5,4277.24
+CUST0390,Laki-laki,Member,Silver,Yogyakarta,Elektronik,39.0,42.0,15.0,62.0,2.9,7632.75
+CUST0391,Perempuan,Member,Silver,Yogyakarta,Buku,39.0,81.0,117.0,466.0,4.5,44861.83
+CUST0392,Perempuan,Member,Silver,Pekanbaru,Otomotif,23.0,0.0,30.0,118.0,2.8,10731.92
+CUST0393,Laki-laki,Member,Silver,Pekanbaru,Kesehatan,48.0,46.0,89.0,354.0,,33418.48
+CUST0394,Perempuan,Member,Bronze,Bandung,Travel,50.0,16.0,94.0,374.0,2.9,28239.55
+CUST0395,Laki-laki,Non-Member,Bronze,Pekanbaru,Gaming,40.0,77.0,5.0,20.0,2.9,6056.49
+CUST0396,Perempuan,Member,Silver,Palembang,Kesehatan,35.0,38.0,96.0,377.0,4.5,35463.83
+CUST0397,Perempuan,Non-Member,Gold,Palembang,Otomotif,33.0,48.0,20.0,82.0,4.2,10510.76
+CUST0398,Laki-laki,Member,Silver,Palembang,Mainan Anak,28.0,59.0,54.0,225.0,4.6,22301.74
+CUST0399,Perempuan,Member,Bronze,Surabaya,Mainan Anak,18.0,31.0,2.0,8.0,2.6,2448.1
+CUST0400,Perempuan,Member,Platinum,Batam,Fashion,42.0,56.0,22.0,92.0,4.3,15766.09
+CUST0401,Laki-laki,Member,Silver,Batam,Makanan,18.0,38.0,68.0,277.0,4.8,24897.87
+CUST0402,Perempuan,Member,Silver,Batam,Travel,39.0,37.0,112.0,470.0,3.2,40843.13
+CUST0403,Perempuan,Non-Member,Silver,Jakarta,Kesehatan,31.0,77.0,13.0,54.0,3.2,7997.9
+CUST0404,Perempuan,Non-Member,Bronze,Depok,Mainan Anak,48.0,18.0,100.0,388.0,,26455.5
+CUST0405,Laki-laki,Member,Silver,Jakarta,Kecantikan,46.0,35.0,28.0,110.0,4.9,11974.66
+CUST0406,Perempuan,Non-Member,Bronze,Batam,Gaming,46.0,2.0,98.0,388.0,3.5,24836.57
+CUST0407,Laki-laki,Member,Silver,Jakarta,Travel,39.0,23.0,57.0,219.0,5.0,21558.12
+CUST0408,Laki-laki,Non-Member,Silver,Malang,Kesehatan,51.0,27.0,90.0,357.0,3.2,29158.72
+CUST0409,Laki-laki,Member,Silver,Medan,Makanan,56.0,37.0,40.0,165.0,3.0,16297.37
+CUST0410,Perempuan,Member,Silver,Tangerang,Elektronik,48.0,28.0,117.0,469.0,3.2,41815.63
+CUST0411,Laki-laki,Non-Member,Bronze,Medan,Olahraga,44.0,75.0,93.0,356.0,3.2,26996.91
+CUST0412,Perempuan,Member,Gold,Bogor,Perabot Rumah,26.0,20.0,106.0,443.0,3.8,46756.65
+CUST0413,Laki-laki,Member,Silver,Medan,Elektronik,52.0,80.0,74.0,303.0,3.9,30378.16
+CUST0414,Perempuan,Non-Member,Bronze,Depok,Makanan,53.0,25.0,60.0,246.0,4.0,16439.4
+CUST0415,Perempuan,Member,Gold,Bekasi,Olahraga,29.0,81.0,76.0,296.0,4.7,36789.56
+CUST0416,Perempuan,Non-Member,Silver,Malang,Otomotif,52.0,34.0,48.0,185.0,2.7,15960.51
+CUST0417,Laki-laki,Member,Silver,Batam,Kesehatan,27.0,75.0,2.0,8.0,,4611.18
+CUST0418,Perempuan,Member,Bronze,Yogyakarta,Mainan Anak,22.0,53.0,9.0,38.0,3.9,5601.83
+CUST0419,Laki-laki,Member,Bronze,Depok,Mainan Anak,36.0,59.0,27.0,107.0,3.8,11034.26
+CUST0420,Perempuan,Non-Member,Bronze,Palembang,Olahraga,28.0,34.0,114.0,441.0,4.4,30537.01
+CUST0421,Laki-laki,Member,Silver,Bandung,Kecantikan,26.0,44.0,80.0,318.0,,29998.38
+CUST0422,Laki-laki,Non-Member,Bronze,Jakarta,Buku,35.0,62.0,27.0,112.0,3.1,10422.75
+CUST0423,Laki-laki,Non-Member,Silver,Pekanbaru,Makanan,32.0,82.0,35.0,143.0,4.5,15006.78
+CUST0424,Perempuan,Non-Member,Bronze,Batam,Olahraga,32.0,83.0,70.0,274.0,,20962.78
+CUST0425,Perempuan,Non-Member,Platinum,Bogor,Kecantikan,44.0,31.0,119.0,475.0,3.8,61718.62
+CUST0426,Perempuan,Non-Member,Bronze,Palembang,Travel,22.0,43.0,4.0,17.0,3.6,3003.21
+CUST0427,Laki-laki,Member,Bronze,Surabaya,Makanan,49.0,29.0,29.0,120.0,5.0,9466.48
+CUST0428,Laki-laki,Member,Bronze,Malang,Elektronik,24.0,5.0,109.0,430.0,4.6,31764.32
+CUST0429,Perempuan,Non-Member,Gold,Medan,Mainan Anak,22.0,75.0,116.0,442.0,4.1,47102.48
+CUST0430,Perempuan,Non-Member,Bronze,Malang,Mainan Anak,54.0,27.0,3.0,12.0,4.7,2535.31
+CUST0431,Perempuan,Member,Silver,Yogyakarta,Otomotif,52.0,39.0,112.0,436.0,3.4,41019.81
+CUST0432,Perempuan,Non-Member,Silver,Malang,Elektronik,40.0,18.0,84.0,338.0,5.0,26105.61
+CUST0433,Perempuan,Member,Gold,Jakarta,Makanan,48.0,78.0,44.0,173.0,4.8,23208.46
+CUST0434,Laki-laki,Member,Platinum,Makassar,Mainan Anak,49.0,64.0,79.0,305.0,3.9,48388.56
+CUST0435,Laki-laki,Member,Platinum,Bogor,Travel,33.0,70.0,3.0,12.0,3.6,166007.0
+CUST0436,Perempuan,Non-Member,Gold,Tangerang,Gaming,47.0,50.0,97.0,407.0,4.2,40068.25
+CUST0437,Laki-laki,Member,Silver,Makassar,Makanan,45.0,24.0,81.0,329.0,4.5,29262.19
+CUST0438,Perempuan,Member,Bronze,Batam,Perabot Rumah,24.0,73.0,26.0,102.0,2.9,11348.25
+CUST0439,Perempuan,Member,Silver,Palembang,Mainan Anak,26.0,12.0,5.0,21.0,4.9,2176.34
+CUST0440,Laki-laki,Member,Silver,Tangerang,Kecantikan,36.0,40.0,65.0,265.0,3.6,25138.18
+CUST0441,Perempuan,Member,Platinum,Makassar,Gaming,56.0,83.0,30.0,125.0,3.7,21375.24
+CUST0442,Perempuan,Non-Member,Bronze,Makassar,Perabot Rumah,36.0,63.0,28.0,110.0,4.3,10760.2
+CUST0443,Laki-laki,Member,Bronze,Medan,Kesehatan,58.0,48.0,108.0,419.0,3.3,33996.99
+CUST0444,Laki-laki,Non-Member,Platinum,Yogyakarta,Olahraga,28.0,3.0,111.0,433.0,3.3,56876.32
+CUST0445,Laki-laki,Member,Silver,Medan,Buku,40.0,42.0,98.0,379.0,3.0,35960.89
+CUST0446,Laki-laki,Member,Silver,Palembang,Otomotif,19.0,24.0,10.0,42.0,4.5,4782.7
+CUST0447,Laki-laki,Non-Member,Silver,Tangerang,Buku,23.0,34.0,45.0,176.0,4.2,15473.51
+CUST0448,Laki-laki,Member,Bronze,Bandung,Buku,54.0,56.0,74.0,297.0,4.1,24348.68
+CUST0449,Laki-laki,Non-Member,Bronze,Medan,Kesehatan,34.0,46.0,113.0,458.0,2.8,31161.9
+CUST0450,Laki-laki,Member,Bronze,Makassar,Travel,18.0,74.0,55.0,227.0,3.9,20182.37
+CUST0451,Perempuan,Member,Bronze,Makassar,Kesehatan,25.0,80.0,79.0,306.0,4.2,27532.68
+CUST0452,Perempuan,Member,Gold,Yogyakarta,Buku,42.0,78.0,14.0,56.0,3.7,10028.7
+CUST0453,Perempuan,Member,Gold,Batam,Buku,41.0,,110.0,422.0,2.5,49481.93
+CUST0454,Perempuan,Member,Silver,Palembang,Olahraga,51.0,65.0,59.0,226.0,4.0,24180.79
+CUST0455,Laki-laki,Member,Bronze,Malang,Olahraga,50.0,56.0,4.0,16.0,3.4,4215.04
+CUST0456,Laki-laki,Non-Member,Bronze,Yogyakarta,Olahraga,47.0,0.0,36.0,146.0,4.3,9526.33
+CUST0457,Perempuan,Non-Member,Silver,Tangerang,Elektronik,23.0,37.0,70.0,268.0,4.5,23298.55
+CUST0458,Laki-laki,Non-Member,Bronze,Tangerang,Travel,47.0,10.0,117.0,447.0,4.8,29206.59
+CUST0459,Laki-laki,Non-Member,Silver,Bogor,Buku,23.0,80.0,64.0,265.0,2.7,23467.15
+CUST0460,Laki-laki,Non-Member,Silver,Medan,Perabot Rumah,43.0,19.0,72.0,293.0,3.8,22996.15
+CUST0461,Perempuan,Member,Bronze,Pekanbaru,Elektronik,56.0,54.0,14.0,55.0,4.9,7211.25
+CUST0462,Perempuan,Non-Member,Silver,Makassar,Buku,23.0,12.0,53.0,221.0,3.1,16692.26
+CUST0463,Perempuan,Non-Member,Silver,Bogor,Perabot Rumah,47.0,14.0,85.0,334.0,4.0,26724.54
+CUST0464,Perempuan,Member,Silver,Surabaya,Fashion,56.0,4.0,26.0,101.0,4.9,9491.07
+CUST0465,Perempuan,Non-Member,Bronze,Tangerang,Otomotif,56.0,17.0,83.0,330.0,3.3,21790.93
+CUST0466,Laki-laki,Member,Silver,Bandung,Gaming,24.0,30.0,66.0,262.0,2.6,24803.18
+CUST0467,Laki-laki,Member,Bronze,Bandung,Olahraga,47.0,26.0,97.0,376.0,4.2,29594.83
+CUST0468,Perempuan,Member,Gold,Yogyakarta,Olahraga,47.0,66.0,105.0,409.0,3.4,48693.07
+CUST0469,Perempuan,Member,Silver,Tangerang,Olahraga,30.0,34.0,104.0,416.0,3.5,38019.04
+CUST0470,Perempuan,Member,Bronze,Batam,Kesehatan,59.0,2.0,7.0,28.0,4.6,2523.81
+CUST0471,Laki-laki,Non-Member,Bronze,Surabaya,Otomotif,52.0,23.0,10.0,41.0,3.2,3939.42
+CUST0472,Perempuan,Member,Silver,Palembang,Travel,21.0,70.0,60.0,233.0,3.7,24525.68
+CUST0473,Perempuan,Member,Bronze,Pekanbaru,Mainan Anak,40.0,51.0,61.0,253.0,4.3,20195.31
+CUST0474,Perempuan,Member,Bronze,Bogor,Kesehatan,30.0,79.0,33.0,133.0,4.3,13799.63
+CUST0475,Laki-laki,Member,Platinum,Bekasi,Kesehatan,35.0,42.0,102.0,424.0,2.6,60841.76
+CUST0476,Perempuan,Member,Bronze,Jakarta,Otomotif,59.0,7.0,58.0,228.0,3.4,17614.83
+CUST0477,Perempuan,Member,Platinum,Palembang,Elektronik,54.0,7.0,55.0,209.0,3.8,32424.81
+CUST0478,Laki-laki,Member,Silver,Depok,Travel,50.0,76.0,38.0,152.0,3.0,17644.86
+CUST0479,Perempuan,Non-Member,Bronze,Palembang,Travel,22.0,68.0,91.0,376.0,4.3,27092.64
+CUST0480,Perempuan,Non-Member,Bronze,Semarang,Buku,56.0,55.0,39.0,150.0,4.4,13330.06
+CUST0481,Perempuan,Member,Platinum,Jakarta,Olahraga,35.0,,43.0,174.0,3.5,25548.89
+CUST0482,Laki-laki,Member,Silver,Batam,Buku,,39.0,39.0,157.0,3.6,15620.55
+CUST0483,Laki-laki,Non-Member,Bronze,Semarang,Olahraga,25.0,5.0,116.0,444.0,2.5,29430.24
+CUST0484,Laki-laki,Member,Bronze,Surabaya,Fashion,56.0,16.0,64.0,251.0,3.0,19919.95
+CUST0485,Laki-laki,Member,Bronze,Jakarta,Buku,57.0,37.0,92.0,355.0,2.5,118436.0
+CUST0486,Laki-laki,Member,Gold,Yogyakarta,Mainan Anak,43.0,21.0,77.0,318.0,3.0,34587.21
+CUST0487,Laki-laki,Member,Gold,Medan,Travel,41.0,59.0,97.0,386.0,,45084.55
+CUST0488,Perempuan,Non-Member,Bronze,Malang,Mainan Anak,54.0,38.0,8.0,33.0,4.4,5005.16
+CUST0489,Laki-laki,Non-Member,Bronze,Bandung,Travel,35.0,2.0,59.0,238.0,4.4,14994.05
+CUST0490,Laki-laki,Member,Bronze,Jakarta,Perabot Rumah,50.0,39.0,93.0,377.0,4.2,28925.12
+CUST0491,Laki-laki,Non-Member,Gold,Tangerang,Fashion,38.0,18.0,39.0,150.0,2.5,15635.15
+CUST0492,Laki-laki,Member,Bronze,Malang,Fashion,39.0,71.0,12.0,49.0,2.6,7327.06
+CUST0493,Laki-laki,Member,Bronze,Palembang,Otomotif,59.0,76.0,60.0,233.0,4.9,21554.19
+CUST0494,Laki-laki,Member,Silver,Bogor,Gaming,41.0,28.0,65.0,268.0,2.7,24342.15
+CUST0495,Laki-laki,Member,Silver,Bandung,Makanan,,58.0,118.0,470.0,3.4,43837.69
+CUST0496,Perempuan,Non-Member,Silver,Batam,Kesehatan,55.0,0.0,45.0,187.0,4.9,13803.62
+CUST0497,Perempuan,Member,Bronze,Pekanbaru,Otomotif,48.0,35.0,101.0,405.0,,30763.44
+CUST0498,Laki-laki,Member,Bronze,Pekanbaru,Gaming,,66.0,46.0,192.0,4.7,16866.05
+CUST0499,Perempuan,Member,Gold,Jakarta,Mainan Anak,25.0,80.0,80.0,323.0,,38720.01
+CUST0500,Laki-laki,Member,Bronze,Yogyakarta,Otomotif,50.0,36.0,88.0,340.0,3.4,111146.0
+CUST0501,Perempuan,Non-Member,Bronze,Pekanbaru,Makanan,53.0,79.0,108.0,432.0,4.8,31642.33
+CUST0502,Laki-laki,Non-Member,Silver,Bekasi,Travel,53.0,83.0,37.0,149.0,4.2,15643.98
+CUST0503,Perempuan,Non-Member,Silver,Jakarta,Travel,29.0,18.0,28.0,112.0,4.1,9475.14
+CUST0504,Perempuan,Member,Bronze,Bandung,Makanan,24.0,19.0,18.0,72.0,,6865.5
+CUST0505,Laki-laki,Member,Bronze,Surabaya,Fashion,48.0,16.0,6.0,25.0,3.5,3251.68
+CUST0506,Perempuan,Member,Silver,Jakarta,Perabot Rumah,37.0,76.0,81.0,308.0,4.6,32093.04
+CUST0507,Perempuan,Non-Member,Silver,Surabaya,Buku,38.0,51.0,36.0,138.0,4.0,13266.36
+CUST0508,Laki-laki,Member,Silver,Semarang,Travel,36.0,33.0,83.0,323.0,,30205.1
+CUST0509,Perempuan,Member,Bronze,Yogyakarta,Perabot Rumah,56.0,59.0,107.0,431.0,3.6,34474.09
+CUST0510,Laki-laki,Member,Silver,Bandung,Mainan Anak,56.0,14.0,84.0,319.0,3.1,30030.88
+CUST0511,Perempuan,Member,Gold,Bogor,Travel,26.0,82.0,11.0,43.0,4.4,9079.55
+CUST0512,Laki-laki,Member,Bronze,Depok,Perabot Rumah,32.0,25.0,119.0,463.0,4.0,35735.5
+CUST0513,Laki-laki,Non-Member,Silver,Semarang,Olahraga,28.0,42.0,8.0,33.0,4.8,5038.49
+CUST0514,Perempuan,Non-Member,Platinum,Pekanbaru,Olahraga,23.0,54.0,41.0,166.0,,22831.17
+CUST0515,Laki-laki,Member,Platinum,Yogyakarta,Makanan,26.0,48.0,78.0,302.0,4.1,46957.66
+CUST0516,Laki-laki,Member,Bronze,Bandung,Buku,30.0,60.0,45.0,184.0,3.6,16325.32
+CUST0517,Perempuan,Member,Gold,Batam,Perabot Rumah,18.0,37.0,9.0,35.0,4.3,5999.92
+CUST0518,Perempuan,Member,Platinum,Bandung,Fashion,26.0,65.0,77.0,294.0,3.4,86718.0
+CUST0519,Perempuan,Non-Member,Bronze,Pekanbaru,Elektronik,19.0,42.0,82.0,315.0,3.0,22716.53
+CUST0520,Perempuan,Non-Member,Platinum,Batam,Gaming,33.0,57.0,41.0,163.0,4.4,23571.23
+CUST0521,Laki-laki,Non-Member,Platinum,Batam,Olahraga,32.0,21.0,83.0,323.0,4.2,42655.45
+CUST0522,Perempuan,Non-Member,Bronze,Medan,Kesehatan,46.0,,4.0,16.0,2.7,4606.55
+CUST0523,Perempuan,Member,Silver,Palembang,Perabot Rumah,33.0,63.0,110.0,436.0,4.2,133813.0
+CUST0524,Perempuan,Member,Silver,Bandung,Otomotif,19.0,33.0,60.0,233.0,3.1,23186.85
+CUST0525,Laki-laki,Member,Bronze,Palembang,Fashion,39.0,67.0,89.0,371.0,4.9,29166.05
+CUST0526,Laki-laki,Non-Member,Platinum,Palembang,Gaming,38.0,55.0,38.0,151.0,4.6,22354.82
+CUST0527,Perempuan,Member,Bronze,Jakarta,Gaming,51.0,62.0,2.0,8.0,4.4,4258.97
+CUST0528,Laki-laki,Member,Bronze,Semarang,Olahraga,59.0,13.0,102.0,411.0,2.5,162924.0
+CUST0529,Perempuan,Non-Member,Platinum,Bogor,Mainan Anak,,10.0,56.0,218.0,3.9,28541.69
+CUST0530,Perempuan,Member,Bronze,Surabaya,Kesehatan,,71.0,100.0,400.0,3.6,32634.87
+CUST0531,Perempuan,Member,Bronze,Palembang,Kecantikan,52.0,9.0,67.0,271.0,4.0,20414.74
+CUST0532,Laki-laki,Member,Gold,Medan,Mainan Anak,40.0,24.0,73.0,298.0,3.7,33086.17
+CUST0533,Laki-laki,Non-Member,Platinum,Surabaya,Olahraga,35.0,64.0,118.0,482.0,2.9,62664.51
+CUST0534,Perempuan,Non-Member,Bronze,Yogyakarta,Gaming,21.0,23.0,15.0,59.0,3.1,4675.93
+CUST0535,Perempuan,Member,Bronze,Tangerang,Makanan,42.0,21.0,37.0,152.0,3.9,11203.24
+CUST0536,Laki-laki,Member,Bronze,Yogyakarta,Perabot Rumah,47.0,75.0,25.0,98.0,4.6,11709.21
+CUST0537,Laki-laki,Non-Member,Silver,Makassar,Kecantikan,56.0,36.0,60.0,239.0,2.7,20276.56
+CUST0538,Laki-laki,Member,Gold,Palembang,Kecantikan,34.0,65.0,117.0,489.0,3.8,53691.94
+CUST0539,Perempuan,Member,Silver,Depok,Perabot Rumah,59.0,21.0,17.0,65.0,4.4,7410.12
+CUST0540,Laki-laki,Non-Member,Platinum,Pekanbaru,Kesehatan,41.0,5.0,45.0,177.0,3.7,22929.49
+CUST0541,Laki-laki,Non-Member,Bronze,Palembang,Kecantikan,46.0,25.0,7.0,27.0,4.5,3350.43
+CUST0542,Perempuan,Member,Gold,Semarang,Kecantikan,34.0,14.0,19.0,80.0,3.7,9123.88
+CUST0543,Laki-laki,Non-Member,Bronze,Bekasi,Otomotif,48.0,38.0,19.0,72.0,3.9,6362.66
+CUST0544,Laki-laki,Member,Bronze,Tangerang,Makanan,19.0,37.0,71.0,284.0,4.8,22531.22
+CUST0545,Laki-laki,Non-Member,Bronze,Bogor,Elektronik,26.0,59.0,8.0,33.0,3.6,5294.2
+CUST0546,Perempuan,Member,Bronze,Palembang,Gaming,,50.0,107.0,444.0,3.0,33014.05
+CUST0547,Laki-laki,Non-Member,Bronze,Tangerang,Mainan Anak,38.0,25.0,22.0,87.0,2.6,6916.24
+CUST0548,Laki-laki,Member,Silver,Palembang,Kecantikan,54.0,54.0,1.0,4.0,3.8,4109.73
+CUST0549,Perempuan,Non-Member,Bronze,Batam,Fashion,27.0,2.0,88.0,369.0,5.0,22494.4
+CUST0550,Perempuan,Member,Bronze,Semarang,Kecantikan,40.0,,6.0,24.0,3.8,3707.31
+CUST0551,Laki-laki,Member,Silver,Jakarta,Travel,47.0,75.0,65.0,266.0,3.1,26871.06
+CUST0552,Laki-laki,Member,Gold,Tangerang,Gaming,28.0,51.0,98.0,396.0,4.8,45192.15
+CUST0553,Perempuan,Non-Member,Silver,Makassar,Kesehatan,47.0,28.0,72.0,278.0,2.7,23369.45
+CUST0554,Laki-laki,Non-Member,Bronze,Batam,Perabot Rumah,58.0,27.0,87.0,351.0,5.0,23535.81
+CUST0555,Laki-laki,Member,Silver,Malang,Gaming,33.0,15.0,44.0,170.0,4.0,16319.01
+CUST0556,Perempuan,Member,Bronze,Pekanbaru,Makanan,56.0,,49.0,198.0,3.6,15704.72
+CUST0557,Perempuan,Member,Silver,Bekasi,Perabot Rumah,20.0,0.0,62.0,240.0,4.9,21717.86
+CUST0558,Laki-laki,Non-Member,Bronze,Depok,Makanan,47.0,62.0,69.0,265.0,4.1,20954.54
+CUST0559,Laki-laki,Member,Silver,Malang,Buku,34.0,11.0,45.0,182.0,4.1,16407.57
+CUST0560,Laki-laki,Non-Member,Silver,Pekanbaru,Olahraga,47.0,56.0,2.0,8.0,4.6,4158.4
+CUST0561,Perempuan,Member,Gold,Bandung,Fashion,18.0,69.0,115.0,444.0,4.9,53224.42
+CUST0562,Perempuan,Non-Member,Bronze,Makassar,Otomotif,25.0,29.0,118.0,465.0,3.9,31436.95
+CUST0563,Perempuan,Member,Gold,Jakarta,Elektronik,52.0,63.0,118.0,478.0,,54369.46
+CUST0564,Laki-laki,Member,Silver,Makassar,Fashion,40.0,55.0,35.0,141.0,2.8,15114.2
+CUST0565,Laki-laki,Member,Silver,Tangerang,Mainan Anak,47.0,17.0,52.0,202.0,4.8,19112.1
+CUST0566,Perempuan,Member,Bronze,Semarang,Kesehatan,30.0,8.0,26.0,107.0,2.7,8033.28
+CUST0567,Laki-laki,Member,Gold,Malang,Gaming,27.0,43.0,51.0,199.0,4.2,24802.56
+CUST0568,Laki-laki,Non-Member,Bronze,Yogyakarta,Kecantikan,23.0,65.0,64.0,262.0,3.5,19608.69
+CUST0569,Perempuan,Member,Bronze,Bogor,Gaming,53.0,38.0,94.0,367.0,2.7,29701.91
+CUST0570,Laki-laki,Non-Member,Gold,Yogyakarta,Mainan Anak,41.0,44.0,47.0,184.0,3.7,20328.89
+CUST0571,Laki-laki,Member,Silver,Tangerang,Kesehatan,55.0,3.0,18.0,69.0,5.0,156364.0
+CUST0572,Perempuan,Non-Member,Platinum,Pekanbaru,Makanan,46.0,57.0,27.0,108.0,3.8,17060.18
+CUST0573,Perempuan,Member,Silver,Makassar,Makanan,,39.0,70.0,289.0,4.5,26396.01
+CUST0574,Laki-laki,Non-Member,Bronze,Semarang,Kesehatan,,,32.0,134.0,4.1,8436.82
+CUST0575,Perempuan,Member,Bronze,Medan,Otomotif,,26.0,87.0,332.0,2.8,26784.0
+CUST0576,Laki-laki,Member,Silver,Medan,Kecantikan,49.0,49.0,39.0,161.0,3.3,16662.29
+CUST0577,Laki-laki,Non-Member,Bronze,Medan,Gaming,56.0,65.0,64.0,246.0,2.8,19643.76
+CUST0578,Perempuan,Member,Bronze,Jakarta,Fashion,33.0,83.0,93.0,359.0,3.7,165700.0
+CUST0579,Laki-laki,Member,Gold,Yogyakarta,Buku,55.0,3.0,91.0,356.0,4.5,39903.84
+CUST0580,Perempuan,Non-Member,Bronze,Pekanbaru,Gaming,36.0,39.0,43.0,165.0,3.8,13487.12
+CUST0581,Perempuan,Non-Member,Silver,Batam,Olahraga,25.0,80.0,11.0,43.0,3.1,7514.03
+CUST0582,Laki-laki,Non-Member,Gold,Makassar,Olahraga,,77.0,49.0,195.0,2.5,23245.85
+CUST0583,Perempuan,Non-Member,Gold,Medan,Fashion,18.0,3.0,32.0,128.0,3.2,12414.03
+CUST0584,Perempuan,Non-Member,Platinum,Malang,Buku,,65.0,11.0,46.0,4.5,9985.76
+CUST0585,Perempuan,Non-Member,Silver,Bandung,Kecantikan,24.0,57.0,84.0,338.0,2.8,28045.67
+CUST0586,Perempuan,Member,Gold,Depok,Makanan,35.0,26.0,44.0,168.0,4.9,21060.68
+CUST0587,Perempuan,Non-Member,Bronze,Bandung,Makanan,30.0,,42.0,172.0,3.0,12044.93
+CUST0588,Laki-laki,Non-Member,Silver,Malang,Fashion,18.0,48.0,31.0,121.0,4.6,11917.14
+CUST0589,Perempuan,Non-Member,Bronze,Yogyakarta,Fashion,38.0,4.0,35.0,140.0,,9787.49
+CUST0590,Laki-laki,Member,Silver,Palembang,Travel,51.0,80.0,84.0,347.0,4.8,33949.0
+CUST0591,Laki-laki,Member,Bronze,Bandung,Mainan Anak,27.0,83.0,21.0,84.0,2.9,10274.37
+CUST0592,Laki-laki,Non-Member,Bronze,Jakarta,Perabot Rumah,21.0,49.0,108.0,421.0,,29675.26
+CUST0593,Laki-laki,Non-Member,Silver,Batam,Kecantikan,30.0,6.0,20.0,82.0,2.8,6715.57
+CUST0594,Laki-laki,Member,Silver,Bekasi,Otomotif,43.0,73.0,72.0,284.0,2.6,29270.48
+CUST0595,Perempuan,Member,Bronze,Palembang,Perabot Rumah,51.0,56.0,71.0,297.0,4.8,23399.69
+CUST0596,Perempuan,Non-Member,Gold,Surabaya,Mainan Anak,,5.0,78.0,317.0,4.4,30395.12
+CUST0597,Perempuan,Member,Platinum,Palembang,Kecantikan,38.0,4.0,107.0,424.0,2.8,61829.5
+CUST0598,Perempuan,Non-Member,Bronze,Yogyakarta,Fashion,20.0,29.0,96.0,382.0,3.4,25967.13
+CUST0599,Perempuan,Non-Member,Bronze,Semarang,Olahraga,23.0,77.0,68.0,276.0,2.8,20768.35
+CUST0600,Laki-laki,Member,Silver,Semarang,Perabot Rumah,25.0,11.0,116.0,479.0,4.8,40924.65
+CUST0601,Laki-laki,Non-Member,Bronze,Bogor,Travel,42.0,75.0,39.0,160.0,3.5,13516.21
+CUST0602,Perempuan,Member,Bronze,Bekasi,Otomotif,30.0,13.0,8.0,33.0,4.5,3708.99
+CUST0603,Perempuan,Non-Member,Silver,Bekasi,Makanan,23.0,75.0,9.0,36.0,3.1,6638.45
+CUST0604,Perempuan,Non-Member,Silver,Jakarta,Perabot Rumah,38.0,,49.0,192.0,3.1,18380.95
+CUST0605,Laki-laki,Non-Member,Bronze,Bekasi,Kecantikan,20.0,18.0,49.0,201.0,3.5,13368.69
+CUST0606,Perempuan,Non-Member,Bronze,Bandung,Kesehatan,50.0,76.0,10.0,39.0,2.7,6808.21
+CUST0607,Perempuan,Member,Gold,Palembang,Mainan Anak,23.0,,68.0,270.0,2.9,34062.34
+CUST0608,Laki-laki,Non-Member,Gold,Medan,Travel,43.0,72.0,45.0,181.0,2.9,20810.37
+CUST0609,Laki-laki,Non-Member,Platinum,Bekasi,Elektronik,40.0,4.0,14.0,59.0,4.3,7253.89
+CUST0610,Laki-laki,Non-Member,Bronze,Palembang,Kesehatan,48.0,42.0,42.0,165.0,2.5,12914.8
+CUST0611,Laki-laki,Member,Bronze,Pekanbaru,Gaming,23.0,42.0,10.0,42.0,3.9,5019.03
+CUST0612,Laki-laki,Member,Bronze,Pekanbaru,Kesehatan,40.0,22.0,14.0,53.0,4.5,5739.2
+CUST0613,Perempuan,Member,Silver,Batam,Travel,41.0,62.0,116.0,457.0,4.2,44185.21
+CUST0614,Perempuan,Member,Bronze,Surabaya,Buku,25.0,10.0,61.0,250.0,3.1,18488.94
+CUST0615,Perempuan,Non-Member,Silver,Surabaya,Kecantikan,27.0,54.0,40.0,166.0,2.5,14886.2
+CUST0616,Perempuan,Member,Platinum,Surabaya,Elektronik,22.0,56.0,33.0,134.0,4.6,109926.0
+CUST0617,Laki-laki,Member,Silver,Batam,Otomotif,37.0,60.0,45.0,175.0,,18662.27
+CUST0618,Perempuan,Member,Bronze,Semarang,Makanan,28.0,9.0,51.0,211.0,3.7,15354.31
+CUST0619,Perempuan,Member,Silver,Semarang,Elektronik,32.0,15.0,23.0,89.0,4.2,9196.87
+CUST0620,Laki-laki,Member,Bronze,Surabaya,Perabot Rumah,33.0,54.0,66.0,259.0,4.1,22428.24
+CUST0621,Perempuan,Member,Bronze,Depok,Fashion,55.0,4.0,44.0,180.0,2.7,13071.42
+CUST0622,Laki-laki,Member,Gold,Surabaya,Gaming,38.0,11.0,72.0,279.0,2.8,31264.44
+CUST0623,Perempuan,Member,Gold,Bekasi,Otomotif,25.0,67.0,53.0,222.0,2.6,26449.48
+CUST0624,Perempuan,Member,Bronze,Bandung,Kesehatan,31.0,78.0,113.0,466.0,3.2,36669.99
+CUST0625,Laki-laki,Member,Silver,Bandung,Buku,24.0,68.0,107.0,422.0,4.2,40959.97
+CUST0626,Perempuan,Member,Bronze,Bekasi,Elektronik,19.0,50.0,114.0,460.0,5.0,35189.49
+CUST0627,Laki-laki,Member,Silver,Bekasi,Fashion,26.0,,33.0,138.0,,15159.27
+CUST0628,Perempuan,Non-Member,Bronze,Bandung,Fashion,40.0,66.0,11.0,46.0,4.9,6912.5
+CUST0629,Laki-laki,Member,Bronze,Tangerang,Gaming,26.0,,72.0,284.0,4.0,22692.62
+CUST0630,Perempuan,Member,Silver,Palembang,Perabot Rumah,23.0,52.0,61.0,250.0,3.9,24382.92
+CUST0631,Laki-laki,Non-Member,Bronze,Medan,Otomotif,38.0,45.0,11.0,45.0,3.3,4945.52
+CUST0632,Perempuan,Non-Member,Silver,Palembang,Perabot Rumah,44.0,83.0,60.0,237.0,3.6,22665.96
+CUST0633,Perempuan,Non-Member,Bronze,Surabaya,Gaming,21.0,42.0,42.0,166.0,,12720.15
+CUST0634,Perempuan,Non-Member,Gold,Medan,Fashion,50.0,75.0,70.0,270.0,4.1,30714.7
+CUST0635,Laki-laki,Member,Bronze,Bekasi,Kesehatan,51.0,0.0,76.0,294.0,3.5,22511.51
+CUST0636,Laki-laki,Member,Bronze,Bogor,Otomotif,20.0,62.0,82.0,339.0,4.2,26498.63
+CUST0637,Perempuan,Member,Silver,Jakarta,Kesehatan,55.0,39.0,14.0,58.0,2.5,7331.56
+CUST0638,Perempuan,Member,Bronze,Semarang,Buku,31.0,67.0,78.0,326.0,3.8,26262.42
+CUST0639,Laki-laki,Non-Member,Gold,Semarang,Elektronik,28.0,68.0,68.0,276.0,3.5,29001.38
+CUST0640,Laki-laki,Non-Member,Bronze,Malang,Makanan,52.0,4.0,26.0,106.0,3.6,7345.2
+CUST0641,Perempuan,Member,Platinum,Pekanbaru,Makanan,33.0,56.0,1.0,4.0,3.5,4133.84
+CUST0642,Laki-laki,Member,Silver,Tangerang,Gaming,46.0,54.0,115.0,459.0,3.3,42476.23
+CUST0643,Perempuan,Member,Silver,Depok,Mainan Anak,47.0,70.0,82.0,328.0,4.9,33122.69
+CUST0644,Perempuan,Member,Silver,Surabaya,Gaming,22.0,44.0,11.0,45.0,4.0,5802.67
+CUST0645,Laki-laki,Member,Gold,Semarang,Perabot Rumah,50.0,65.0,103.0,407.0,3.4,48261.32
+CUST0646,Perempuan,Member,Silver,Semarang,Buku,28.0,45.0,58.0,221.0,,21964.83
+CUST0647,Laki-laki,Non-Member,Silver,Palembang,Fashion,24.0,64.0,69.0,284.0,3.6,24001.02
+CUST0648,Perempuan,Member,Silver,Palembang,Perabot Rumah,46.0,49.0,116.0,479.0,4.4,43136.0
+CUST0649,Perempuan,Member,Silver,Palembang,Otomotif,53.0,13.0,5.0,19.0,3.5,3203.66
+CUST0650,Laki-laki,Non-Member,Silver,Bekasi,Makanan,44.0,45.0,45.0,180.0,4.3,16237.37
+CUST0651,Perempuan,Non-Member,Bronze,Palembang,Kecantikan,45.0,28.0,24.0,97.0,3.5,7915.33
+CUST0652,Laki-laki,Member,Silver,Bandung,Elektronik,34.0,72.0,47.0,179.0,,20499.47
+CUST0653,Perempuan,Non-Member,Gold,Bandung,Perabot Rumah,50.0,3.0,90.0,369.0,3.1,34204.05
+CUST0654,Perempuan,Member,Silver,Jakarta,Makanan,18.0,64.0,15.0,62.0,3.4,8850.44
+CUST0655,Perempuan,Member,Bronze,Yogyakarta,Elektronik,,69.0,104.0,433.0,4.5,33899.68
+CUST0656,Perempuan,Member,Bronze,Bandung,Buku,18.0,67.0,69.0,264.0,3.9,23394.07
+CUST0657,Perempuan,Member,Silver,Medan,Makanan,52.0,37.0,88.0,344.0,3.3,33256.22
+CUST0658,Laki-laki,Member,Gold,Medan,Otomotif,29.0,6.0,72.0,290.0,2.8,31791.12
+CUST0659,Laki-laki,Member,Bronze,Surabaya,Perabot Rumah,31.0,66.0,62.0,236.0,3.6,21460.03
+CUST0660,Laki-laki,Non-Member,Silver,Malang,Fashion,45.0,77.0,86.0,339.0,3.4,30218.62
+CUST0661,Laki-laki,Member,Gold,Yogyakarta,Fashion,54.0,38.0,15.0,61.0,4.8,9179.36
+CUST0662,Laki-laki,Member,Silver,Bandung,Fashion,54.0,0.0,68.0,275.0,,23563.26
+CUST0663,Laki-laki,Member,Platinum,Semarang,Buku,44.0,18.0,50.0,199.0,3.5,29963.92
+CUST0664,Laki-laki,Member,Bronze,Bandung,Olahraga,39.0,54.0,2.0,8.0,4.6,3858.2
+CUST0665,Laki-laki,Non-Member,Gold,Depok,Kecantikan,31.0,69.0,56.0,224.0,4.2,24899.06
+CUST0666,Perempuan,Member,Silver,Batam,Perabot Rumah,42.0,83.0,73.0,278.0,4.3,29554.36
+CUST0667,Perempuan,Member,Silver,Tangerang,Buku,46.0,33.0,45.0,183.0,2.8,17617.99
+CUST0668,Perempuan,Member,Bronze,Palembang,Mainan Anak,23.0,40.0,119.0,474.0,3.5,36651.65
+CUST0669,Laki-laki,Member,Silver,Palembang,Makanan,18.0,20.0,66.0,254.0,4.5,23929.94
+CUST0670,Perempuan,Non-Member,Bronze,Bekasi,Elektronik,56.0,73.0,50.0,195.0,2.9,17077.31
+CUST0671,Perempuan,Non-Member,Gold,Bekasi,Makanan,49.0,14.0,29.0,115.0,3.8,12118.55
+CUST0672,Laki-laki,Member,Bronze,Malang,Fashion,53.0,21.0,37.0,148.0,4.9,12320.47
+CUST0673,Perempuan,Non-Member,Silver,Malang,Kesehatan,22.0,67.0,98.0,373.0,3.7,32745.96
+CUST0674,Perempuan,Member,Silver,Tangerang,Mainan Anak,28.0,42.0,84.0,333.0,3.8,31379.05
+CUST0675,Perempuan,Member,Silver,Jakarta,Fashion,37.0,4.0,46.0,181.0,4.2,16550.07
+CUST0676,Laki-laki,Member,Bronze,Bekasi,Buku,37.0,45.0,51.0,203.0,3.7,16723.17
+CUST0677,Laki-laki,Member,Silver,Semarang,Makanan,37.0,14.0,59.0,242.0,2.7,21757.62
+CUST0678,Laki-laki,Non-Member,Bronze,Batam,Buku,30.0,,26.0,105.0,,9902.28
+CUST0679,Perempuan,Member,Bronze,Semarang,Buku,30.0,44.0,41.0,168.0,3.6,13987.55
+CUST0680,Laki-laki,Non-Member,Silver,Makassar,Kesehatan,54.0,62.0,93.0,367.0,3.7,31713.67
+CUST0681,Laki-laki,Member,Platinum,Makassar,Makanan,21.0,44.0,1.0,4.0,4.0,2614.67
+CUST0682,Perempuan,Member,Gold,Batam,Olahraga,22.0,65.0,15.0,58.0,2.9,9499.26
+CUST0683,Laki-laki,Member,Silver,Bekasi,Gaming,20.0,17.0,12.0,47.0,4.8,5093.0
+CUST0684,Perempuan,Non-Member,Gold,Malang,Elektronik,29.0,36.0,101.0,405.0,2.8,40089.45
+CUST0685,Laki-laki,Member,Bronze,Surabaya,Olahraga,41.0,21.0,77.0,319.0,4.0,24179.4
+CUST0686,Perempuan,Member,Bronze,Bekasi,Buku,23.0,83.0,99.0,406.0,3.4,32800.2
+CUST0687,Laki-laki,Member,Gold,Depok,Otomotif,47.0,43.0,101.0,415.0,3.2,46185.12
+CUST0688,Laki-laki,Member,Silver,Bandung,Buku,21.0,,36.0,145.0,3.1,12629.51
+CUST0689,Perempuan,Non-Member,Bronze,Bekasi,Buku,56.0,,83.0,332.0,3.6,21415.3
+CUST0690,Perempuan,Member,Silver,Depok,Elektronik,23.0,4.0,41.0,157.0,3.4,14725.65
+CUST0691,Perempuan,Member,Bronze,Bogor,Mainan Anak,48.0,37.0,37.0,155.0,,13241.97
+CUST0692,Perempuan,Member,Bronze,Malang,Mainan Anak,40.0,1.0,100.0,382.0,5.0,28986.61
+CUST0693,Perempuan,Member,Gold,Jakarta,Gaming,50.0,12.0,61.0,232.0,3.6,27549.3
+CUST0694,Laki-laki,Member,Bronze,Jakarta,Gaming,36.0,57.0,40.0,164.0,2.8,195478.0
+CUST0695,Perempuan,Member,Silver,Medan,Kecantikan,43.0,39.0,114.0,461.0,,41392.28
+CUST0696,Perempuan,Non-Member,Silver,Pekanbaru,Travel,42.0,37.0,44.0,181.0,5.0,15473.48
+CUST0697,Perempuan,Non-Member,Gold,Pekanbaru,Mainan Anak,22.0,69.0,86.0,347.0,,35552.23
+CUST0698,Perempuan,Non-Member,Bronze,Semarang,Travel,22.0,50.0,99.0,393.0,3.4,27862.1
+CUST0699,Laki-laki,Non-Member,Silver,Bandung,Mainan Anak,27.0,51.0,36.0,143.0,2.5,13361.38
+CUST0700,Perempuan,Member,Platinum,Bekasi,Otomotif,34.0,15.0,42.0,165.0,4.1,24858.38
+CUST0701,Laki-laki,Non-Member,Bronze,Palembang,Otomotif,,52.0,61.0,240.0,4.5,17816.7
+CUST0702,Perempuan,Member,Bronze,Tangerang,Buku,59.0,60.0,13.0,52.0,,7488.11
+CUST0703,Perempuan,Non-Member,Platinum,Yogyakarta,Gaming,28.0,35.0,48.0,186.0,4.7,26249.25
+CUST0704,Laki-laki,Member,Bronze,Depok,Perabot Rumah,55.0,42.0,93.0,364.0,4.9,29756.58
+CUST0705,Laki-laki,Non-Member,Silver,Yogyakarta,Travel,28.0,69.0,88.0,343.0,2.6,30699.65
+CUST0706,Perempuan,Non-Member,Bronze,Bekasi,Mainan Anak,47.0,7.0,9.0,36.0,,3063.38
+CUST0707,Perempuan,Member,Gold,Palembang,Mainan Anak,43.0,,19.0,74.0,2.7,9268.99
+CUST0708,Laki-laki,Member,Silver,Palembang,Gaming,,78.0,75.0,292.0,4.9,30036.11
+CUST0709,Laki-laki,Member,Bronze,Bekasi,Kesehatan,27.0,41.0,8.0,33.0,3.4,4833.72
+CUST0710,Laki-laki,Member,Gold,Bekasi,Otomotif,53.0,62.0,118.0,453.0,3.9,55201.27
+CUST0711,Laki-laki,Non-Member,Bronze,Batam,Buku,35.0,27.0,8.0,31.0,3.3,3281.66
+CUST0712,Laki-laki,Non-Member,Platinum,Bogor,Fashion,32.0,18.0,2.0,8.0,2.9,2720.88
+CUST0713,Laki-laki,Member,Silver,Semarang,Kecantikan,52.0,81.0,63.0,263.0,3.7,26363.0
+CUST0714,Perempuan,Non-Member,Silver,Bandung,Mainan Anak,38.0,63.0,19.0,75.0,4.8,9532.45
+CUST0715,Laki-laki,Non-Member,Bronze,Medan,Olahraga,32.0,21.0,94.0,362.0,2.5,24664.66
+CUST0716,Perempuan,Non-Member,Silver,Malang,Perabot Rumah,22.0,29.0,61.0,254.0,3.3,20406.33
+CUST0717,Laki-laki,Member,Silver,Malang,Travel,49.0,80.0,82.0,313.0,3.0,33391.5
+CUST0718,Laki-laki,Member,Silver,Pekanbaru,Gaming,19.0,,52.0,204.0,3.5,20628.2
+CUST0719,Laki-laki,Member,Bronze,Semarang,Fashion,35.0,61.0,47.0,187.0,3.9,16762.0
+CUST0720,Laki-laki,Non-Member,Silver,Bekasi,Perabot Rumah,49.0,49.0,81.0,321.0,3.8,27292.0
+CUST0721,Perempuan,Member,Platinum,Surabaya,Otomotif,,83.0,86.0,361.0,2.7,53556.91
+CUST0722,Laki-laki,Member,Silver,Makassar,Makanan,39.0,5.0,29.0,117.0,4.7,10643.49
+CUST0723,Laki-laki,Member,Bronze,Malang,Buku,42.0,31.0,30.0,115.0,3.9,10642.7
+CUST0724,Perempuan,Member,Bronze,Batam,Elektronik,23.0,11.0,39.0,156.0,,12362.07
+CUST0725,Laki-laki,Member,Platinum,Palembang,Kecantikan,54.0,71.0,52.0,200.0,2.7,33874.41
+CUST0726,Perempuan,Non-Member,Bronze,Semarang,Mainan Anak,19.0,5.0,19.0,73.0,3.5,5388.96
+CUST0727,Perempuan,Member,Bronze,Malang,Olahraga,38.0,62.0,110.0,447.0,2.6,34583.59
+CUST0728,Perempuan,Member,Bronze,Jakarta,Fashion,41.0,34.0,31.0,129.0,4.8,92416.0
+CUST0729,Laki-laki,Non-Member,Bronze,Palembang,Elektronik,56.0,37.0,55.0,222.0,2.9,15985.29
+CUST0730,Perempuan,Member,Gold,Malang,Kesehatan,39.0,34.0,6.0,25.0,3.4,4917.47
+CUST0731,Laki-laki,Non-Member,Bronze,Bandung,Perabot Rumah,41.0,41.0,82.0,330.0,2.7,22551.28
+CUST0732,Perempuan,Member,Bronze,Bogor,Olahraga,58.0,65.0,75.0,298.0,3.2,25059.47
+CUST0733,Laki-laki,Member,Gold,Pekanbaru,Elektronik,53.0,35.0,51.0,200.0,3.7,23959.4
+CUST0734,Laki-laki,Member,Bronze,Semarang,Buku,40.0,64.0,64.0,255.0,4.8,21435.0
+CUST0735,Perempuan,Member,Gold,Surabaya,Perabot Rumah,,81.0,111.0,462.0,4.2,52604.78
+CUST0736,Laki-laki,Member,Silver,Batam,Kecantikan,33.0,71.0,2.0,8.0,4.8,4298.73
+CUST0737,Perempuan,Member,Bronze,Jakarta,Gaming,55.0,54.0,96.0,395.0,,30481.3
+CUST0738,Laki-laki,Member,Silver,Tangerang,Perabot Rumah,48.0,58.0,71.0,278.0,5.0,27990.19
+CUST0739,Perempuan,Member,Platinum,Palembang,Elektronik,,5.0,91.0,375.0,4.5,52847.5
+CUST0740,Perempuan,Member,Bronze,Pekanbaru,Buku,33.0,21.0,85.0,355.0,3.7,25798.57
+CUST0741,Laki-laki,Member,Silver,Yogyakarta,Otomotif,50.0,16.0,48.0,187.0,3.0,18110.55
+CUST0742,Laki-laki,Member,Gold,Semarang,Makanan,28.0,22.0,70.0,270.0,2.5,31706.77
+CUST0743,Perempuan,Non-Member,Bronze,Jakarta,Kecantikan,48.0,11.0,79.0,302.0,4.5,21229.72
+CUST0744,Laki-laki,Non-Member,Gold,Semarang,Makanan,24.0,46.0,56.0,215.0,2.7,23142.5
+CUST0745,Perempuan,Member,Platinum,Bekasi,Otomotif,25.0,17.0,77.0,300.0,2.7,45826.26
+CUST0746,Perempuan,Non-Member,Silver,Malang,Travel,38.0,11.0,17.0,65.0,3.1,6000.73
+CUST0747,Laki-laki,Member,Silver,Bekasi,Gaming,55.0,28.0,93.0,389.0,4.0,33514.0
+CUST0748,Perempuan,Non-Member,Bronze,Palembang,Mainan Anak,37.0,6.0,65.0,269.0,3.1,17309.09
+CUST0749,Laki-laki,Non-Member,Bronze,Tangerang,Buku,42.0,72.0,51.0,205.0,,17389.35
+CUST0750,Perempuan,Non-Member,Silver,Malang,Perabot Rumah,18.0,63.0,116.0,462.0,4.1,38179.7
+CUST0751,Perempuan,Member,Silver,Depok,Kesehatan,26.0,74.0,34.0,132.0,,15636.62
+CUST0752,Perempuan,Non-Member,Gold,Bogor,Perabot Rumah,59.0,61.0,53.0,214.0,3.4,23869.1
+CUST0753,Perempuan,Non-Member,Silver,Malang,Otomotif,54.0,23.0,10.0,40.0,3.0,4706.44
+CUST0754,Laki-laki,Non-Member,Gold,Batam,Fashion,45.0,82.0,108.0,444.0,4.0,44633.28
+CUST0755,Laki-laki,Member,Bronze,Jakarta,Elektronik,22.0,26.0,114.0,468.0,4.2,34200.19
+CUST0756,Perempuan,Non-Member,Gold,Malang,Olahraga,22.0,40.0,57.0,231.0,3.0,23924.95
+CUST0757,Perempuan,Non-Member,Bronze,Pekanbaru,Otomotif,53.0,57.0,102.0,396.0,,28837.24
+CUST0758,Perempuan,Member,Silver,Bandung,Kesehatan,19.0,82.0,15.0,61.0,,9816.56
+CUST0759,Laki-laki,Member,Gold,Bekasi,Elektronik,38.0,51.0,30.0,125.0,3.3,15959.28
+CUST0760,Laki-laki,Member,Gold,Semarang,Perabot Rumah,46.0,17.0,39.0,159.0,2.7,17692.14
+CUST0761,Laki-laki,Member,Bronze,Bogor,Buku,20.0,73.0,116.0,474.0,4.5,37413.93
+CUST0762,Laki-laki,Non-Member,Gold,Pekanbaru,Travel,21.0,13.0,39.0,156.0,4.8,15361.12
+CUST0763,Perempuan,Non-Member,Platinum,Jakarta,Otomotif,30.0,60.0,6.0,25.0,4.5,5628.86
+CUST0764,Laki-laki,Member,Silver,Batam,Perabot Rumah,41.0,34.0,55.0,211.0,4.3,20936.7
+CUST0765,Perempuan,Member,Silver,Jakarta,Buku,27.0,22.0,70.0,284.0,3.0,26148.3
+CUST0766,Laki-laki,Member,Bronze,Yogyakarta,Kecantikan,45.0,26.0,48.0,184.0,4.0,15272.95
+CUST0767,Laki-laki,Member,Silver,Bandung,Perabot Rumah,58.0,19.0,112.0,443.0,4.4,40729.26
+CUST0768,Perempuan,Member,Gold,Surabaya,Fashion,51.0,65.0,119.0,485.0,3.9,55005.22
+CUST0769,Laki-laki,Member,Bronze,Medan,Travel,58.0,,97.0,383.0,3.7,30411.12
+CUST0770,Perempuan,Member,Platinum,Depok,Olahraga,59.0,83.0,76.0,299.0,2.7,48280.49
+CUST0771,Laki-laki,Non-Member,Bronze,Jakarta,Kesehatan,21.0,,72.0,278.0,3.7,21073.01
+CUST0772,Laki-laki,Member,Silver,Jakarta,Kesehatan,58.0,43.0,119.0,496.0,5.0,43697.63
+CUST0773,Laki-laki,Member,Bronze,Bekasi,Mainan Anak,45.0,6.0,85.0,326.0,4.1,25170.29
+CUST0774,Perempuan,Non-Member,Bronze,Yogyakarta,Mainan Anak,30.0,79.0,42.0,164.0,2.5,13819.91
+CUST0775,Perempuan,Member,Gold,Makassar,Mainan Anak,48.0,4.0,4.0,15.0,4.7,2716.02
+CUST0776,Perempuan,Member,Bronze,Pekanbaru,Otomotif,47.0,80.0,35.0,144.0,3.5,14092.33
+CUST0777,Laki-laki,Member,Silver,Bogor,Olahraga,35.0,,20.0,78.0,4.3,6716.19
+CUST0778,Laki-laki,Member,Bronze,Jakarta,Gaming,56.0,32.0,26.0,106.0,2.5,9696.84
+CUST0779,Laki-laki,Member,Gold,Bogor,Otomotif,41.0,28.0,6.0,24.0,4.3,4419.6
+CUST0780,Perempuan,Non-Member,Silver,Makassar,Travel,25.0,21.0,34.0,139.0,3.5,11807.39
+CUST0781,Laki-laki,Member,Silver,Medan,Travel,46.0,0.0,67.0,271.0,5.0,23361.04
+CUST0782,Perempuan,Non-Member,Gold,Medan,Olahraga,,70.0,20.0,80.0,4.1,11398.23
+CUST0783,Laki-laki,Member,Bronze,Bandung,Olahraga,55.0,49.0,96.0,371.0,3.5,30598.77
+CUST0784,Laki-laki,Member,Silver,Bekasi,Kecantikan,34.0,16.0,86.0,350.0,4.1,31136.17
+CUST0785,Perempuan,Member,Bronze,Malang,Otomotif,38.0,71.0,80.0,314.0,2.8,26998.03
+CUST0786,Perempuan,Non-Member,Bronze,Depok,Mainan Anak,58.0,40.0,115.0,469.0,4.5,31470.08
+CUST0787,Laki-laki,Member,Bronze,Bandung,Elektronik,28.0,15.0,34.0,140.0,3.2,10520.91
+CUST0788,Perempuan,Non-Member,Platinum,Surabaya,Elektronik,52.0,12.0,67.0,261.0,4.4,34766.13
+CUST0789,Perempuan,Member,Bronze,Makassar,Travel,41.0,12.0,80.0,328.0,2.8,24546.7
+CUST0790,Laki-laki,Non-Member,Gold,Tangerang,Olahraga,49.0,44.0,14.0,58.0,4.4,8095.95
+CUST0791,Perempuan,Non-Member,Gold,Semarang,Perabot Rumah,,20.0,23.0,92.0,3.8,10209.13
+CUST0792,Perempuan,Member,Bronze,Batam,Elektronik,50.0,46.0,94.0,369.0,,29736.59
+CUST0793,Laki-laki,Non-Member,Silver,Yogyakarta,Buku,25.0,0.0,97.0,403.0,4.9,29084.3
+CUST0794,Laki-laki,Member,Silver,Pekanbaru,Perabot Rumah,37.0,64.0,52.0,213.0,3.6,21450.84
+CUST0795,Perempuan,Non-Member,Platinum,Semarang,Buku,47.0,2.0,7.0,28.0,4.2,4248.75
+CUST0796,Perempuan,Member,Bronze,Palembang,Otomotif,51.0,26.0,58.0,229.0,2.7,18383.88
+CUST0797,Perempuan,Non-Member,Gold,Jakarta,Mainan Anak,36.0,62.0,107.0,440.0,3.8,43533.54
+CUST0798,Perempuan,Member,Bronze,Malang,Mainan Anak,29.0,,105.0,440.0,4.0,34469.05
+CUST0799,Perempuan,Member,Bronze,Pekanbaru,Fashion,26.0,12.0,75.0,309.0,,22551.11
+CUST0800,Laki-laki,Member,Platinum,Makassar,Buku,51.0,5.0,6.0,25.0,3.0,133357.0
